@@ -17,13 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "sophiaelizecruz",
+        "url": "http://github.com/sophiaelizecruz"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "url": "https://www.linkedin.com/in/sophia-elize-cruz-b6a916194/"
       },
       {
         "network": "twitter",
@@ -86,9 +86,9 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2018-08-24",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.80",
       "courses": [
       ]
     }
