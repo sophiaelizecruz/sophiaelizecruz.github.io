@@ -16,13 +16,5 @@ summary: A  game I developed with one of my peers for our final ICS 111 project.
 
 Fruitfall is a  simple collection game I developed with one of my classmates as a culmination of the concepts that we had learned in our ICS 111 class. 
 
-<hr>
-
-<pre>
-
-</pre>
-
-<hr>
-
 Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
 
