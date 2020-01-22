@@ -2,12 +2,12 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
+title: ICS 111 Project 3 - Fruitfall
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2018-11-27
 labels:
-  - Lisp
+  - Java
   - GitHub
 summary: A text adventure game I developed for ICS 313.
 ---
