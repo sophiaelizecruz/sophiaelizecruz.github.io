@@ -7,19 +7,17 @@ permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2015-10-26
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Java
+  - Object Oriented Programming
+summary: A collection game for my second ICS 111 project.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+For our second project, we were to create a collection game using what we had learned about object-oriented programming. The objective of the game was to have the character that you were controlling collect as many food and drink items being hurled at them as possible. They also had to avoid being hit by the enemy, which would drop their score by a certain amount. If the player's score was to drop below zero, the game would end.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+This was an individual project, so I had implemented and designed everything by myself. I chose to do a meme themed game and focused on the details from the BGM to the objects themselves.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+From this experience, I learned how to ask smarter questions and continued to work on my problem-solving skills especially with figuring out and implementing the mechanics of the game. This was a fun exercise to help me build up my object-oriented programming skills.
  
 Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
