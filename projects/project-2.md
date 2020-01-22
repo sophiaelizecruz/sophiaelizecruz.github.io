@@ -2,10 +2,10 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
+title: ICS 111 Project 2: 404 Not Found
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2015-10-26
 labels:
   - Javascript
   - Meteor
