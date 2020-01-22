@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/fruitfall.png
+image: D:/images/fruitfall.png
 title: ICS 111 Project 3 - Fruitfall
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
