@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/fruitfall.png
 title: ICS 111 Project 3 - Fruitfall
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
@@ -20,5 +20,5 @@ After throwing ideas around and planning out the components of the game, I imple
 
 Some challenges that we faced were that we had to work out when we would meet to work on the project, as well as plan out the deadlines for each component of our project. There were also occasions where we would have conflicting ideas as to what we wanted our project to be, but we were able to compromise and work things out in a timely manner.  
 
-Gameplay: <a href="https://www.youtube.com/watch?v=XXgyfs1-C80"></a>
+Gameplay: <a href="https://www.youtube.com/watch?v=XXgyfs1-C80">Fruitfall Gameplay</a>
 
