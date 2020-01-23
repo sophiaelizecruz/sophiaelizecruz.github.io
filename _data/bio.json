@@ -36,6 +36,9 @@
     {
       "name": "graphic design",
       "keywords": [
+        "Adobe Photoshop",
+        "Adobe InDesign",
+        "Adobe Illustrator"
       ]
     },
     {
@@ -52,9 +55,7 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript"
       ]
     },
     {
@@ -121,31 +122,22 @@
       ]
     },
     {
-      "organization": "",
+      "organization": "Hawaii Undergraduate Initiative",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Director of Fundraising",
+      "startDate": "August 2018",
+      "endDate": "May 2019",
+      "summary": "Organizing fundraisers such as bake sales to raise funds for a peer mentor camp in the Spring, as well as for social events and other activities within the club.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
+      "title": "Academic Merit Scholarship",
+      "date": "2018-Present",
+      "awarder": "University of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
