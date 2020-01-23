@@ -12,8 +12,6 @@ labels:
 summary: A game that I developed with one of my peers for our final ICS 111 project.
 ---
 
-<img class="medium center floated rounded image" align="center" src="../images/fruitfallheader.png">
-
 
 For our second project, we were to create a collection game using what we had learned about object-oriented programming. The objective of the game was to have the character that you were controlling collect as many food and drink items being hurled at them as possible. They also had to avoid being hit by the enemy, which would drop their score by a certain amount. If the player's score was to drop below zero, the game would end.
 
