@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/notfound.png
-title: ICS 111 Project 3 - Fruitfall
-permalink: projects/fruitfall
+title: ICS 111 Project 2 - 404 Not Found
+permalink: projects/404notfound
 # All dates must be YYYY-MM-DD format!
 date: 2018-11-27
 labels:
