@@ -5,7 +5,7 @@ image: images/vacay-square.png
 title: ICS 111 Project 2: 404 Not Found
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-10-26
+date: 2018-10-26
 labels:
   - Java
   - Object Oriented Programming
