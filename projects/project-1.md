@@ -13,7 +13,7 @@ summary: Don't catch 'em all. A Pokemon-themed dodgeball game.
 ---
 
 
-<img class="ui medium middle floated rounded image" vertical-align="right" src="/images/dratinidodgeball.png" length="800" width="1000">
+<img class="ui medium middle floated rounded image" vertical-align="right" src="/images/dratinidodgeball.png" length="1000" width="800">
 
 
 My very first coding project was to create a dodgeball game where a character was to dodge a bunch of objects by moving around. If the player were to be touched by one of the balls, the game would end. The balls were to bounce off of the borders and move in the direction of the player.
