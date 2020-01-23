@@ -9,6 +9,7 @@ date: 2018-11-27
 labels:
   - Java
   - Object Oriented Programming
+  - JavaEZ
 summary: A simple game where the user has to catch fruit while avoiding bombs.
 ---
 
