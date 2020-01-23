@@ -10,7 +10,7 @@ labels:
   - Java
   - Object Oriented Programming
   - JavaEZ
-summary: A game that I developed for my second ICS 111 project.
+summary: A game where you have to collect your gamer essentials while avoiding your responsibilities.
 ---
 <img class="ui medium middle floated rounded image" src="/images/notfound404.png" width="800" length="1000">
 
