@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/fruitfall.png
-title: ICS 111 Project 3 - Fruitfall
+title: Fruitfall
 permalink: projects/fruitfall
 # All dates must be YYYY-MM-DD format!
 date: 2018-11-27
