@@ -13,7 +13,7 @@ summary: A game that I developed for my first ICS 111 project.
 ---
 
 
-<img class="ui medium" vertical-align="right" src="/images/Screen Shot 2020-01-22 at 9.30.20 PM.png" length="800" width="1000">
+<img class="ui medium" vertical-align="right" src="/images/dratinidodgeball.png" length="800" width="1000">
 
 
 My very first coding project was to create a dodgeball game where a character was to dodge a bunch of objects by moving around. If the player were to be touched by one of the balls, the game would end. The balls were to bounce off of the borders and move in the direction of the player.
