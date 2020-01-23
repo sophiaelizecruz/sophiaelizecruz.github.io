@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/vacay-square.png
 title: ICS 111 Project 2: 404 Not Found
-permalink: projects/vacay
+permalink: projects/notfound
 # All dates must be YYYY-MM-DD format!
 date: 2018-10-26
 labels:
