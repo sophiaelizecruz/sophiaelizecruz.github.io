@@ -64,7 +64,8 @@
       "keywords": [
         "MacOS",
         "Git/GitHub",
-        "gcc/g++"
+        "g++",
+        "Eclipse IDE"
       ]
     }
   ],
@@ -81,7 +82,6 @@
     }
   ],
   "work": [
-  "organization": "N/A",
   "position": "N/A"
   ],
   "volunteer": [
