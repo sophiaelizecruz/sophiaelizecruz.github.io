@@ -9,7 +9,7 @@ date: 2018-11-27
 labels:
   - Java
   - Object Oriented Programming
-summary: A game that I developed with one of my peers for our final ICS 111 project.
+summary: A game that I developed for my second ICS 111 project.
 ---
 
 
