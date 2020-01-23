@@ -9,7 +9,7 @@ date: 2018-11-27
 labels:
   - Java
   - JavaEZ
-summary: A game that I developed for my first ICS 111 project.
+summary: Don't catch 'em all. A Pokemon-themed dodgeball game.
 ---
 
 
