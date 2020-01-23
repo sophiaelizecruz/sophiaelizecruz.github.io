@@ -20,3 +20,4 @@ This was an individual project, so I had implemented and designed everything by 
 
 From this experience, I learned how to ask smarter questions and continued to work on my problem-solving skills especially with figuring out and implementing the mechanics of the game. This was a fun exercise to help me build up my object-oriented programming skills.
  
+Gameplay: <a href="https://www.youtube.com/watch?v=QScb6xR-tkU">404 Not Found</a>
