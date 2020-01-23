@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/notfound.png
+image: images/dratini.png
 title: Dratini Dodgeball
 permalink: projects/dratinidodgeball
 # All dates must be YYYY-MM-DD format!
