@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/fruitfall.png
+image: images/notfound.png
 title: ICS 111 Project 3 - Fruitfall
 permalink: projects/fruitfall
 # All dates must be YYYY-MM-DD format!
@@ -13,8 +13,6 @@ summary: A game that I developed with one of my peers for our final ICS 111 proj
 ---
 
 <img class="medium center floated rounded image" align="center" src="../images/fruitfallheader.png">
-
-Gameplay: <a href="https://www.youtube.com/watch?v=XXgyfs1-C80">Fruitfall Gameplay</a>
 
 
 For our second project, we were to create a collection game using what we had learned about object-oriented programming. The objective of the game was to have the character that you were controlling collect as many food and drink items being hurled at them as possible. They also had to avoid being hit by the enemy, which would drop their score by a certain amount. If the player's score was to drop below zero, the game would end.
