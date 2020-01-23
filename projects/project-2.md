@@ -9,9 +9,10 @@ date: 2018-11-27
 labels:
   - Java
   - Object Oriented Programming
+  - JavaEZ
 summary: A game that I developed for my second ICS 111 project.
 ---
-<img class="ui medium middle floated rounded image" src="../images/fruitfallheader.png">
+<img class="ui medium middle floated rounded image" src="/images/notfound404.png">
 
 For our second project, we were to create a collection game using what we had learned about object-oriented programming. The objective of the game was to have the character that you were controlling collect as many food and drink items being hurled at them as possible. They also had to avoid being hit by the enemy, which would drop their score by a certain amount. If the player's score was to drop below zero, the game would end.
 
