@@ -22,4 +22,4 @@ This was an individual project, so I had implemented everything using functions 
 
 I did not have much exposure to programming before this class as I had only done some online tutorials, so this was indeed a challenge. I learned about the importance of coding style, as the spacing was inconsistent and my variables in terms of naming and amount was very sporadic. I also realized the amount of planning and time management that went into such a simple project. 
 
-Gameplay: <a href="https://www.youtube.com/watch?v=XChZ5llVfew">Dratini Dodgeball<\a>
+Gameplay: <a href="https://www.youtube.com/watch?v=XChZ5llVfew">Dratini Dodgeball</a>
