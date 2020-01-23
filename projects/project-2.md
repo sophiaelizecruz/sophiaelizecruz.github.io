@@ -20,4 +20,3 @@ This was an individual project, so I had implemented and designed everything by 
 
 From this experience, I learned how to ask smarter questions and continued to work on my problem-solving skills especially with figuring out and implementing the mechanics of the game. This was a fun exercise to help me build up my object-oriented programming skills.
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
