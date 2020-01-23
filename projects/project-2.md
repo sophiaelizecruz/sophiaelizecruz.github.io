@@ -1,18 +1,21 @@
 ---
 layout: project
 type: project
-image: images/notfound.png
-title: ICS 111 Project 2: 404 Not Found
-permalink: projects/notfound
+image: images/fruitfall.png
+title: ICS 111 Project 3 - Fruitfall
+permalink: projects/fruitfall
 # All dates must be YYYY-MM-DD format!
-date: 2018-10-26
+date: 2018-11-27
 labels:
   - Java
   - Object Oriented Programming
-summary: A collection game for my second ICS 111 project.
+summary: A game that I developed with one of my peers for our final ICS 111 project.
 ---
 
-<img class="ui medium right floated rounded image" src="../notfound.png">
+<img class="medium center floated rounded image" align="center" src="../images/fruitfallheader.png">
+
+Gameplay: <a href="https://www.youtube.com/watch?v=XXgyfs1-C80">Fruitfall Gameplay</a>
+
 
 For our second project, we were to create a collection game using what we had learned about object-oriented programming. The objective of the game was to have the character that you were controlling collect as many food and drink items being hurled at them as possible. They also had to avoid being hit by the enemy, which would drop their score by a certain amount. If the player's score was to drop below zero, the game would end.
 
