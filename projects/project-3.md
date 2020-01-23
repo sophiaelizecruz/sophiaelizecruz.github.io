@@ -12,7 +12,7 @@ labels:
 summary: A game that I developed with one of my peers for our final ICS 111 project.
 ---
 
-<img class="medium right floated rounded image" src=".../images/fruitfallheader.png">
+<img class="medium right floated rounded image" src="../images/fruitfallheader.png">
 
 Fruitfall is a casual game that I developed with one of my classmates as a culmination of the concepts that we had learned in our ICS 111 class. The user would input the level of difficulty that they would like to play at, and the objective of the game is to collect as many of the falling fruits as you can. If they come in contact with a bomb, their score drops, and if their score drops below zero, the game ends. If the user were to input a numerical difficulty level not listed in the instructions, that resulted in a mini-game where the user would have to avoid falling objects for as long as they could.
 
