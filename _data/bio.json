@@ -82,7 +82,11 @@
     }
   ],
   "work": [
-      "N/A"
+      "organization": "N/A",
+      "website": "N/A",
+      "position": "N/A",
+      "startDate": "N/A",
+      "endDate": "N/A"
   ],
   "volunteer": [
     {
