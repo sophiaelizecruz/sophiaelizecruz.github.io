@@ -14,7 +14,7 @@ labels:
 > 
 > Josef Albers
 
-<img class="ui medium right floated rounded image" src="/images/Screen Shot 2020-01-22 at 9.30.20 PM.png" length="800" width="1000">
+<img class="ui medium right floated rounded image" src="/images/music.jpg" length="800" width="1000">
 
 ### JavaScript: Learning A New Scale ###
 
