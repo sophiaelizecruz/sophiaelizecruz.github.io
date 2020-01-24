@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<img class="ui tiny right spaced image" src="../images/degree_difficulty.jpg">
+<img class="ui medium middle floated rounded image" vertical-align="right" src="/images/keybpard.jpg" length="800" width="1000">
 
 ## Wait a minute, computer science? Software engineering? All that math? And stress?
 
