@@ -5,7 +5,7 @@ image: images/hopena.png
 title: Nā Hopena A‘o (HĀ), A Sense of Belonging
 permalink: projects/senseofbelonging
 # All dates must be YYYY-MM-DD format!
-date: 2018-11-27
+date: 2018-05-07
 labels:
   - Adobe Illustrator
   - Adobe InDesign
