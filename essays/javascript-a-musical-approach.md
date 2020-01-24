@@ -14,6 +14,8 @@ labels:
 > 
 > Josef Albers
 
+<img class="ui medium right floated rounded image" src="/images/Screen Shot 2020-01-22 at 9.30.20 PM.png" length="800" width="1000">
+
 ### JavaScript: Learning A New Scale ###
 
 I have to owe it to JavaScript since it was my first programming language.
