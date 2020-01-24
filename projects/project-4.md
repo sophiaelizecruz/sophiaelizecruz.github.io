@@ -12,6 +12,6 @@ labels:
 summary: A magazine that I had worked on with a peer for our Capstone project for our second year graphics class.
 ---
 
-<img class="ui large floated rounded image" src="/images/hopena.png.pdf" length="800" width="800">
+<img class="ui large floated rounded image" src="/images/hopena.png" length="800" width="800">
 
 
