@@ -7,6 +7,8 @@ date: 2020-01-23
 labels:
   - Coding Style
   - Stack Overflow
+  - Learning
+  - C
 ---
 
 ## But be careful what you wish for.
