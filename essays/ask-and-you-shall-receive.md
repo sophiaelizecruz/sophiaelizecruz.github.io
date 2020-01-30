@@ -10,7 +10,7 @@ labels:
   - Music
 ---
 
-## But be careful what you wish for.##
+## But be careful what you wish for.
 
 Regardless of our skill level as software engineers, we all come to a point where we will need to ask others for help. However, that is only half the battle. The question is, _how_ do we ask for help? 
 
