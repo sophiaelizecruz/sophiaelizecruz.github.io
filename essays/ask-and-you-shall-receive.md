@@ -256,10 +256,10 @@ on it. What do they mean by "garbage"? However, they elaborate on this later on,
 next paragraph. Furthermore, the structure and flow of their post is also very messy, as it lacks the proper grammar and 
 punctuation. What the user could have done is that they could have traced the code to figure out a possible problem area, and 
 at the very least, should have provided test code to help the "hackers" understand where their code is going wrong. It would 
-also help if the user had stated what measures they took to solve the problem. Overall, this entry makes the original poster seem lazy, and could impact the chances of them getting help from "hackers" in the future.
+also help if the user had stated what measures they took to solve the problem. Overall, this entry makes the original poster seem lazy, and could reduce the chances of them getting help from "hackers" in the future.
 
-After this experience, I feel that I have a boilerplate for constructing smarter questions. 
-Especially when asking professors, since they also have things to do
-Don't waste others time
-Is a good way to exercise other soft skills
-
+After this experience, I feel that I have a boilerplate for constructing smarter questions. Before reading Raymond's essay on 
+the etiquette of asking "smart" questions, I had been unsure of how to approach my professors or a TA for help in fear that it 
+would sound mindless and that it would waste their time. Asking a smart question should not be that intimidating. It is a 
+matter of preparation, of taking the time to think about what you want to ask about. By practicing this formula for smart 
+questions, this will not only benefit me during my college career, but in later endeavors.
