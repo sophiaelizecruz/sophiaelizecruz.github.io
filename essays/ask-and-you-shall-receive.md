@@ -5,9 +5,8 @@ title: Ask, And You Shall Receive
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-23
 labels:
-  - JavaScript
-  - Learning
-  - Music
+  - Coding Style
+  - Stack Overflow
 ---
 
 ## But be careful what you wish for.
@@ -24,13 +23,18 @@ Shows off your professionalism
 Hello so i am creating a program that reads from a file and outputs each category of the things in the text in sorted for 
 example i want it to output like this :
 
-Company name: air france Date of creation: 06281957 Flight number: AT6801 Incoming city: london Arrival city: paris Amount of 
+Company name: air france Date of creation: 06281957 Flight number: AT6801 
+Incoming city: london Arrival city: paris Amount of 
 fuel liters left: 380 Plane category: B777
 this is the input :
 
-air qatar06281957AT680londonmadrid380B777 turkish airlines05201933TK1298istanbulmadrid250A380 
-lufthansa01061953LH29frankfurtmadrid75B747 air canada06281957AT7245ammanmadrid120A320 turkish 
-airlines05201933TK1266dohamadrid522A320 air france10071933AF123parismadrid105B777 -1
+air qatar06281957AT680londonmadrid380B777 
+turkish airlines05201933TK1298istanbulmadrid250A380 
+lufthansa01061953LH29frankfurtmadrid75B747 
+air canada06281957AT7245ammanmadrid120A320 
+turkish airlines05201933TK1266dohamadrid522A320 
+air france10071933AF123parismadrid105B777 -1
+
 The code:
 
 #include <stdio.h>
@@ -41,9 +45,12 @@ int main()
 {
     FILE *inp,*outp;
     int i,j,c=0,l,c2=0,c3=0;int c4=0;int c5=0,c6=0,k,m,c7=0,flag=0;int 
-    c8=0,c9=0,c10=0,flag2=0,n,c11=0,c12=0,c13=0,c14=0,p=0,c15=0,c16=0,t,t1,t2,t3,t4,t5,t6,t7,s;
-    char ultimate_array[600];char plane[100][6];char date[600][6];char nflight[600][6];char  destination[100][6];char fuel 
-    [100][6];char planetype [100][6];
+    c8=0,c9=0,c10=0,flag2=0,n,c11=0,c12=0,c13=0,c14=0,p=0,
+    c15=0,c16=0,t,t1,t2,t3,t4,t5,t6,t7,s;
+    char ultimate_array[600];char plane[100][6];
+    char date[600][6];char nflight[600][6];
+    char  destination[100][6];
+    char fuel[100][6];char planetype [100][6];
 
     inp=fopen("input.txt","r");
 
@@ -207,15 +214,19 @@ int main()
     return 0;
 }
 
-I have been struggling with a lot of things but I finally managed to separate every category to a different array, however , 
-when I tried to do it for 2D array I always get garbage can someone point out what the mistake I did ?
+I have been struggling with a lot of things but I finally managed to separate every 
+category to a different array, however ,when I tried to do it for 2D array 
+I always get garbage can someone point out what the mistake I did ?
 
-we couldn't read in the input file and write it in a 2D array so the concept that i have used in this code i search in the 
-array until i find something that would help me separate the word from the others such as 06281957 in the input i used isdigit 
-to identify which index has it then i copy the previous characters into a new array this trick seemed to work for a 1d array 
-however when i tried to scan it to 2d it stopped working and only random chars seemed to appeari wanted to print the whole 2d 
-array of each category but i failed to do so, for the variables i used them as checkpoints for the next check to put the 
-things i want in a new array. For minimizing the code i cant seem to find another solution to do so i know that my code is 
+we couldn't read in the input file and write it in a 2D array so the concept that i 
+have used in this code i search in the array until i find something that would help 
+me separate the word from the others such as 06281957 in the input i used isdigit 
+to identify which index has it then i copy the previous characters into a new array 
+this trick seemed to work for a 1d array however when i tried to scan it to 2d it stopped 
+working and only random chars seemed to appeari wanted to print the whole 2d 
+array of each category but i failed to do so, for the variables i used them as 
+checkpoints for the next check to put the things i want in a new array. 
+For minimizing the code i cant seem to find another solution to do so i know that my code is 
 very big but if someone has a better idea it would be awesome.
     
 ```
