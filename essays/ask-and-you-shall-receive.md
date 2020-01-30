@@ -20,7 +20,7 @@ Make connects from these encounters
 Shows off your professionalism
 
 ``` 
-Hello so i am creating a program that reads from a file and outputs 
+Q: Hello so i am creating a program that reads from a file and outputs 
 each category of the things in the text in sorted for 
 example i want it to output like this :
 
@@ -231,9 +231,18 @@ For minimizing the code i cant seem to find another solution to do so i know tha
 very big but if someone has a better idea it would be awesome.
     
 ```
-There are many things that would prompt others to avoid helping this user. This user provides way too much code, and should have condensed the problem area so that it would be easier for other users to understand the problem that he/she is having. What they could have done is that they could have traced the code to figure out a possible problem area, and at the very least, should have provided test code to help the "hackers" understand where their code is going wrong. It would also help if the user had stated what measures they took to solve the problem. 
 
-The structure and flow of their post is also very messy, lacking proper grammar and punctuation. They state that they "always get garbage" but don't elaborate on it, and when they do, it's lost in the sea of the next paragraph. 
+There are many things that would prompt others to avoid helping this user. In fact, the first few replies to this post are 
+asking the user to specify the problem that they are having with their code, and for the user read the help pages regarding 
+how to ask a "good" question. 
+
+This user provides _way_ too much code, and the user should have condensed the problem area so that it would be easier 
+for other users to understand the problem that he/she is having. They state that they "always get garbage" but don't elaborate 
+on it. What do they mean by "garbage"? However, they elaborate on this later on, but when they do, it's lost in the sea of the 
+next paragraph. Furthermore, the structure and flow of their post is also very messy, as it lacks the proper grammar and 
+punctuation. What the user could have done is that they could have traced the code to figure out a possible problem area, and 
+at the very least, should have provided test code to help the "hackers" understand where their code is going wrong. It would 
+also help if the user had stated what measures they took to solve the problem. Overall, this entry makes the original poster seem lazy, and could impact the chances of them getting help from "hackers" in the future.
 
 After reading this, have a boilerplate as to how I can construct smarter questions
 Always panic trying to think of one, so have to step back and think
