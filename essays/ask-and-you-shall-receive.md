@@ -13,7 +13,7 @@ labels:
 
 Regardless of our skill level as software engineers, we all come to a point where we will need to ask others for help. However, that is only half the battle. The question is, _how_ do we ask for help? 
 
-# What constitutes a smart question? 
+## What constitutes a smart question? 
 
 For oneSmart questions made up of knowing exactly what you want, doing the research before you ask, using manners, 
 Need smart questions as it reflects your capabilites such as initiative, willingness to learn, problem solving skills
@@ -26,10 +26,10 @@ you know who you think would be knowledgable in the topic. Asking the developer 
 By showing that you are able to take the time to do the research and that you are able to formulate a "smart" question, it also gives "hackers" the impression that you aim to maintain a level of professionalism, and that you do not intended to waste their time. This may even result in making connections with these "hackers" because you have proven that you are capable of such problem solving skills, which may benefit your career in the long run.
 
 
-# So, What Does A Smart Question Look Like?
+## So, What Does A Smart Question Look Like?
 
 
-# So, What Does A Not Smart Question Look Like?
+## So, What Does A Not Smart Question Look Like?
 
 The following entry displays a user that had asked for help regarding their C program in which their goal was to read in data from a file, but they were having trouble reading in the file's contents and had mentioned that they were reading in random characters.
 
@@ -257,6 +257,8 @@ next paragraph. Furthermore, the structure and flow of their post is also very m
 punctuation. What the user could have done is that they could have traced the code to figure out a possible problem area, and 
 at the very least, should have provided test code to help the "hackers" understand where their code is going wrong. It would 
 also help if the user had stated what measures they took to solve the problem. Overall, this entry makes the original poster seem lazy, and could reduce the chances of them getting help from "hackers" in the future.
+
+## The Takeaway
 
 After this experience, I feel that I have a boilerplate for constructing smarter questions. Before reading Raymond's essay on 
 the etiquette of asking "smart" questions, I had been unsure of how to approach my professors or a TA for help in fear that it 
