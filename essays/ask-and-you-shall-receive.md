@@ -13,11 +13,25 @@ labels:
 
 Regardless of our skill level as software engineers, we all come to a point where we will need to ask others for help. However, that is only half the battle. The question is, _how_ do we ask for help? 
 
-Smart questions made up of knowing exactly what you want, doing research, using manners, 
+# What constitutes a smart question? 
+
+For oneSmart questions made up of knowing exactly what you want, doing the research before you ask, using manners, 
 Need smart questions as it reflects your capabilites such as initiative, willingness to learn, problem solving skills
-Mutual thing - helps us to grow and improve together
-Make connects from these encounters
-Shows off your professionalism
+
+The internet is your friend. There are many online resources available to us, from Stack Overflow to the humble FAQ. It also 
+helps to browse forums and threads that may be similar to your problem before asking; it maye even answer your question! There 
+are many tools such as tags that can help someone narrow down their search. You can experiment on your own or ask people that 
+you know who you think would be knowledgable in the topic. Asking the developer should only be used as a last resort. 
+
+By showing that you are able to take the time to do the research and that you are able to formulate a "smart" question, it also gives "hackers" the impression that you aim to maintain a level of professionalism, and that you do not intended to waste their time. This may even result in making connections with these "hackers" because you have proven that you are capable of such problem solving skills, which may benefit your career in the long run.
+
+
+# So, What Does A Smart Question Look Like?
+
+
+# So, What Does A Not Smart Question Look Like?
+
+The following entry displays a user that had asked for help regarding their C program in which their goal was to read in data from a file, but they were having trouble reading in the file's contents and had mentioned that they were reading in random characters.
 
 ``` 
 Q: Hello so i am creating a program that reads from a file and outputs 
@@ -244,8 +258,7 @@ punctuation. What the user could have done is that they could have traced the co
 at the very least, should have provided test code to help the "hackers" understand where their code is going wrong. It would 
 also help if the user had stated what measures they took to solve the problem. Overall, this entry makes the original poster seem lazy, and could impact the chances of them getting help from "hackers" in the future.
 
-After reading this, have a boilerplate as to how I can construct smarter questions
-Always panic trying to think of one, so have to step back and think
+After this experience, I feel that I have a boilerplate for constructing smarter questions. 
 Especially when asking professors, since they also have things to do
 Don't waste others time
 Is a good way to exercise other soft skills
