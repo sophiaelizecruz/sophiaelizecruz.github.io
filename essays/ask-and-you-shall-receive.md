@@ -20,7 +20,8 @@ Make connects from these encounters
 Shows off your professionalism
 
 ``` 
-Hello so i am creating a program that reads from a file and outputs each category of the things in the text in sorted for 
+Hello so i am creating a program that reads from a file and outputs 
+each category of the things in the text in sorted for 
 example i want it to output like this :
 
 Company name: air france Date of creation: 06281957 Flight number: AT6801 
