@@ -17,19 +17,91 @@ Regardless of our skill level as software engineers, we all come to a point wher
 
 ## What constitutes a smart question? 
 
-For oneSmart questions made up of knowing exactly what you want, doing the research before you ask, using manners, 
-Need smart questions as it reflects your capabilites such as initiative, willingness to learn, problem solving skills
+A smart question starts off with a question. First of all, what exactly are you trying to solve? By knowing what exactly you 
+want to solve, it saves you a lot of time. The internet is your friend. There are many online resources available to us, from 
+Stack Overflow to the humble FAQ. It also helps to browse forums and threads that may be similar to your problem before 
+asking; it maye even answer your question! There are many tools such as tags that can help someone narrow down their search. 
+You can experiment on your own or ask people that you know who you think would be knowledgable in the topic. It's only after 
+your research that you should consider asking people online for help if your search does not produce the answers you need.
+Asking the developer should only be used as a last resort. 
 
-The internet is your friend. There are many online resources available to us, from Stack Overflow to the humble FAQ. It also 
-helps to browse forums and threads that may be similar to your problem before asking; it maye even answer your question! There 
-are many tools such as tags that can help someone narrow down their search. You can experiment on your own or ask people that 
-you know who you think would be knowledgable in the topic. Asking the developer should only be used as a last resort. 
-
-By showing that you are able to take the time to do the research and that you are able to formulate a "smart" question, it also gives "hackers" the impression that you aim to maintain a level of professionalism, and that you do not intended to waste their time. This may even result in making connections with these "hackers" because you have proven that you are capable of such problem solving skills, which may benefit your career in the long run.
+By showing that you are able to take the time to do the research and that you are able to formulate a "smart" question, it 
+also gives "hackers" the impression that you aim to maintain a level of professionalism, and that you do not intended to waste 
+their time. This may even result in making connections with these "hackers" because you have proven that you are capable of 
+such problem solving skills, which may benefit your career in the long run.
 
 
 ## So, What Does A Smart Question Look Like?
+The following entry displays a user that had asked for help 
 
+```
+I am trying to activate a progressbar countdown after I push abutton. So the button will be disabled for 90 seconds. After the 
+progressbar arrived to 90, the button will be active again. How to do that?
+
+Below is what I was able to achieve so far:
+
+js:
+
+class BoatMap extends Component {
+    constructor(props) {
+        super(props);
+        this.state = {
+            buttonEnabled: true
+        };
+        this.updateRequest = this.updateRequest.bind(this);
+    }
+
+    updateRequest() {
+        const url =
+            'html request for API';
+        console.log(url);
+        fetch(url, fetchConfig)
+            .then((jsonObject) => {
+                // fetching data
+              })
+            });
+        this.setState({
+            buttonEnabled: false
+        });
+        setTimeout(() => {
+            this.setState({ buttonEnabled: true });
+        });
+    }
+
+    render() {
+        return (
+            <div className="google-map">
+                <GoogleMapReact>
+                    <div class="progress-circle p0">
+                        <span>0%</span>
+                        <div class="left-half-clipper">
+                            <div class="first50-bar" />
+                            <div class="value-bar" />
+                        </div>
+                    </div>
+                    <button className="btn-next-request" onClick={() => this.updateRequest()}>
+                        Time to Next API Request
+                    </button>
+                </GoogleMapReact>
+            </div>
+        );
+    }
+}
+What I have done so far:
+
+1) I came across the following source but was not able to figure out how to implement it yet.
+
+2) This post is a good source too. However I am not sure about the approach it was taken. Despite that, I was able thanks to 
+that post to set the button call. I can confirm that the button is correctly functioning and sending the request.
+
+3) In addition this is another good source, although it is using jquery. I am not very familiar with jquery but this could be 
+a good approach. However, I would prefer not to mix too many things.
+
+Thanks for pointing in the right direction to solve this problem.
+
+```
+
+This post is a good example of a "smart" question. The user starts off by stating the problem and the goal that they have for their code, and they provide their code in a way that is easy to read. Another positive 
 
 ## So, What Does A Not Smart Question Look Like?
 
