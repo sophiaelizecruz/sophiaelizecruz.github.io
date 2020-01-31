@@ -11,11 +11,11 @@ labels:
   - C
 ---
 
-## But be careful what you wish for.
+## Be Careful What You Wish For.
 
 Regardless of our skill level as software engineers, we all come to a point where we will need to ask others for help. However, that is only half the battle. The question is, _how_ do we ask for help? 
 
-## What constitutes a smart question? 
+## What Constitutes A Smart Question? 
 
 A smart question starts off with a question. First of all, what exactly are you trying to solve? By knowing what exactly you 
 want to solve, it saves you a lot of time. The internet is your friend. There are many online resources available to us, from 
@@ -26,16 +26,16 @@ your research that you should consider asking people online for help if your sea
 Asking the developer should only be used as a last resort. 
 
 By showing that you are able to take the time to do the research and that you are able to formulate a "smart" question, it 
-also gives "hackers" the impression that you aim to maintain a level of professionalism, and that you do not intended to waste 
+also gives "hackers" the impression that you aim to maintain a level of professionalism, and that you do not intend to waste 
 their time. This may even result in making connections with these "hackers" because you have proven that you are capable of 
 such problem solving skills, which may benefit your career in the long run.
 
 
 ## So, What Does A Smart Question Look Like?
-The following entry displays a user that had asked for help 
+The following entry displays a ReactJS related question, where the user wanted to know how to activate a progress bar countdown after the pushing of a button to show the amount of time before the button was to be active again.
 
 ```
-I am trying to activate a progressbar countdown after I push abutton. 
+Q: I am trying to activate a progressbar countdown after I push abutton. 
 So the button will be disabled for 90 seconds. After the 
 progressbar arrived to 90, the button will be active again. How to do that?
 
@@ -104,7 +104,10 @@ Thanks for pointing in the right direction to solve this problem.
 
 ```
 
-This post is a good example of a "smart" question. The user starts off by stating the problem and the goal that they have for their code, and they provide their code in a way that is easy to read. Another positive 
+The user starts off by stating the problem and the goal that they have for their code, and they provide their code in a way 
+that is easy to read. They also list the measures that they had taken to figure out their problem before posting to Stack 
+Overflow, such as linking the posts that they had gone to, as they had included links to the sites that they had gone on. 
+There are some grammatical errors, and while there could have been some parts that the user could have specified further, the post is formatted nicely and is easy to read. It is a decent question, which in turn, allowed this user to get the answer that they needed. 
 
 ## So, What Does A Not Smart Question Look Like?
 
@@ -323,22 +326,23 @@ very big but if someone has a better idea it would be awesome.
     
 ```
 
-There are many things that would prompt others to avoid helping this user. In fact, the first few replies to this post are 
-asking the user to specify the problem that they are having with their code, and for the user read the help pages regarding 
-how to ask a "good" question. 
+Many things would prompt others to avoid helping this user. The first few replies to this post are asking the user to specify 
+the problem that they are having with their code, and for the user to read the help pages regarding how to ask a "good" 
+question. 
 
-This user provides _way_ too much code, and the user should have condensed the problem area so that it would be easier 
-for other users to understand the problem that he/she is having. They state that they "always get garbage" but don't elaborate 
-on it. What do they mean by "garbage"? However, they elaborate on this later on, but when they do, it's lost in the sea of the 
-next paragraph. Furthermore, the structure and flow of their post is also very messy, as it lacks the proper grammar and 
+This user provides _way_ too much code, and the user should have condensed the problem area so that it would be easier for 
+other users to understand the problem that he/she is having. They state that they "always get garbage" but don't elaborate on 
+it. What do they mean by "garbage"? However, they elaborate on this later on, but when they do, it's lost in the sea of the 
+next paragraph. Furthermore, the structure and flow of their post are also very messy, as it lacks proper grammar and 
 punctuation. What the user could have done is that they could have traced the code to figure out a possible problem area, and 
 at the very least, should have provided test code to help the "hackers" understand where their code is going wrong. It would 
-also help if the user had stated what measures they took to solve the problem. Overall, this entry makes the original poster seem lazy, and could reduce the chances of them getting help from "hackers" in the future.
+also help if the user had stated what measures they took to solve the problem. Overall, this entry makes the original poster 
+seem lazy and could reduce the chances of them getting help from "hackers" in the future.
 
 ## The Takeaway
 
 After this experience, I feel that I have a boilerplate for constructing smarter questions. Before reading Raymond's essay on 
 the etiquette of asking "smart" questions, I had been unsure of how to approach my professors or a TA for help in fear that it 
 would sound mindless and that it would waste their time. Asking a smart question should not be that intimidating. It is a 
-matter of preparation, of taking the time to think about what you want to ask about. By practicing this formula for smart 
-questions, this will not only benefit me during my college career, but in later endeavors.
+matter of preparation, for taking the time to think about what you want to ask about. By practicing this formula for smart 
+questions, this will not only benefit me during my college career but in later endeavors.
