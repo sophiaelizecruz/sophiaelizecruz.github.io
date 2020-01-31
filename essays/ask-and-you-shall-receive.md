@@ -8,10 +8,7 @@ labels:
   - Coding Style
   - Stack Overflow
   - Learning
-  - C
 ---
-
-## Be Careful What You Wish For.
 
 Regardless of our skill level as software engineers, we all come to a point where we will need to ask others for help. However, that is only half the battle. The question is, _how_ do we ask for help? 
 
