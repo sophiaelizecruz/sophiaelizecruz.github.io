@@ -34,8 +34,9 @@ such problem-solving skills, which may benefit your career in the long run.
 
 
 ## So, What Does A Smart Question _Look_ Like?
-The following entry displays a ReactJS related question, where the user wanted to know how to activate a progress bar 
-countdown after the pushing of a button to show the amount of time before the button was to be active again.
+The following entry displays a ReactJS related question, where the 
+user wanted to know how to activate a progress bar countdown after the pushing 
+of a button to show the amount of time before the button was to be active again.
 
 ```
 Q: I am trying to activate a progressbar countdown after I push abutton. 
@@ -83,7 +84,8 @@ class BoatMap extends Component {
                             <div class="value-bar" />
                         </div>
                     </div>
-                    <button className="btn-next-request" onClick={() => this.updateRequest()}>
+                    <button className="btn-next-request" onClick={() 
+                    => this.updateRequest()}>
                         Time to Next API Request
                     </button>
                 </GoogleMapReact>
@@ -93,17 +95,22 @@ class BoatMap extends Component {
 }
 What I have done so far:
 
-1) I came across the following source but was not able to figure out how to implement it yet.
+1) I came across the following source but was not able 
+to figure out how to implement it yet.
 
-2) This post is a good source too. However I am not sure about the approach it was taken. 
-Despite that, I was able thanks to that post to set the button call. 
-I can confirm that the button is correctly functioning and sending the request.
+2) This post is a good source too. However I am not sure about the 
+approach it was taken. Despite that, I was able 
+thanks to that post to set the button call. 
+I can confirm that the button is correctly functioning 
+and sending the request.
 
-3) In addition this is another good source, although it is using jquery. 
-I am not very familiar with jquery but this could be a good approach. 
+3) In addition this is another good source, 
+although it is using jquery. I am not very familiar with 
+jquery but this could be a good approach. 
 However, I would prefer not to mix too many things.
 
-Thanks for pointing in the right direction to solve this problem.
+Thanks for pointing in the right direction to solve 
+this problem.
 
 ```
 
