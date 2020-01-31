@@ -102,10 +102,12 @@ What I have done so far:
 1) I came across the following source but was not able 
 to figure out how to implement it yet.
 
-2) This post is a good source too. However I am not sure about the 
+2) This post is a good source too. 
+However I am not sure about the 
 approach it was taken. Despite that, I was able 
 thanks to that post to set the button call. 
-I can confirm that the button is correctly functioning 
+I can confirm that the button 
+is correctly functioning 
 and sending the request.
 
 3) In addition this is another good source, 
@@ -113,7 +115,8 @@ although it is using jquery. I am not very familiar with
 jquery but this could be a good approach. 
 However, I would prefer not to mix too many things.
 
-Thanks for pointing in the right direction to solve 
+Thanks for pointing in the right 
+direction to solve 
 this problem.
 
 ```
@@ -127,9 +130,11 @@ There are some grammatical errors, and while there could have been some parts th
 The following entry displays a user that had asked for help regarding their C program in which their goal was to read in data from a file, but they were having trouble reading in the file's contents and had mentioned that they were reading in random characters.
 
 ``` 
-Q: Hello so i am creating a program that 
+Q: Hello so i am creating a 
+program that 
 reads from a file and outputs 
-each category of the things in the text in sorted for 
+each category of the things in 
+the text in sorted for 
 example i want it to output like this :
 
 Company name: air france 
@@ -139,7 +144,8 @@ fuel liters left: 380 Plane category: B777
 this is the input :
 
 air qatar06281957AT680londonmadrid380B777 
-turkish airlines05201933TK1298istanbulmadrid250A380 
+turkish airlines052019
+33TK1298istanbulmadrid250A380 
 lufthansa01061953LH29frankfurtmadrid75B747 
 air canada06281957AT7245ammanmadrid120A320 
 turkish airlines05201933TK1266dohamadrid522A320 
@@ -353,7 +359,8 @@ working and only random chars seemed to appeari
 wanted to print the whole 2d 
 array of each category but i failed to 
 do so, for the variables i used them as 
-checkpoints for the next check to put the things i want in a new array. 
+checkpoints for the next check to put the things 
+i want in a new array. 
 For minimizing the code i cant seem to find another 
 solution to do so i know that my code is 
 very big but if someone has a better idea it would be awesome.
