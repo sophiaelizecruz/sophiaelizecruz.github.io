@@ -161,10 +161,13 @@ int main()
 {
     FILE *inp,*outp;
     int i,j,c=0,l,c2=0,c3=0;
-    int c4=0;int c5=0,c6=0,k,m,c7=0,flag=0;int 
+    int c4=0;int c5=0,c6=0,k,
+    m,c7=0,flag=0;int 
     c8=0,c9=0,c10=0,
-    flag2=0,n,c11=0,c12=0,c13=0,c14=0,p=0,
-    c15=0,c16=0,t,t1,t2,t3,t4,t5,t6,t7,s;
+    flag2=0,n,c11=0,c12=0,
+    c13=0,c14=0,p=0,
+    c15=0,c16=0,t,t1,t2,t3,
+    t4,t5,t6,t7,s;
     char ultimate_array[600];
     char plane[100][6];
     char date[600][6];
