@@ -341,8 +341,8 @@ int main()
     return 0;
 }
 
-I have been struggling with a lot of things 
-but I finally managed to separate every 
+I have been struggling with a lot of things /n
+but I finally managed to separate every /n
 category to a different array, however ,
 when I tried to do it for 2D array 
 I always get garbage can someone point out 
