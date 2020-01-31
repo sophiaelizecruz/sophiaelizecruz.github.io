@@ -17,22 +17,25 @@ Regardless of our skill level as software engineers, we all come to a point wher
 
 ## What Constitutes A Smart Question? 
 
-A smart question starts off with a question. First of all, what exactly are you trying to solve? By knowing what exactly you 
-want to solve, it saves you a lot of time. The internet is your friend. There are many online resources available to us, from 
-Stack Overflow to the humble FAQ. It also helps to browse forums and threads that may be similar to your problem before 
-asking; it maye even answer your question! There are many tools such as tags that can help someone narrow down their search. 
-You can experiment on your own or ask people that you know who you think would be knowledgable in the topic. It's only after 
-your research that you should consider asking people online for help if your search does not produce the answers you need.
-Asking the developer should only be used as a last resort. 
+First of all, what _exactly_ are you trying to solve? 
 
-By showing that you are able to take the time to do the research and that you are able to formulate a "smart" question, it 
-also gives "hackers" the impression that you aim to maintain a level of professionalism, and that you do not intend to waste 
-their time. This may even result in making connections with these "hackers" because you have proven that you are capable of 
-such problem solving skills, which may benefit your career in the long run.
+By knowing what exactly you want to solve, it saves you a lot of time. There are threads from users that might have had the 
+same problem with their software or hardware! The internet is your friend. There are also many online resources available to 
+us, from Stack Overflow to the humble FAQ. It also helps to browse forums and threads that may be similar to your problem 
+before asking; it may even answer your question! There are many tools such as tags that can help 
+someone narrow down their search. You can experiment on your own or ask people that you know who you think would be 
+knowledgable on the topic. It's only after your research that you should consider asking people online for help if your search 
+does not produce the answers you need. Asking the developer should only be used as a last resort. 
+
+By showing that you can take the time to do the research and that you can formulate a "smart" question, it also gives 
+"hackers" the impression that you aim to maintain a level of professionalism, and that you do not intend to waste their time. 
+This may even result in making connections with these "hackers" because you have proven that you are capable of 
+such problem-solving skills, which may benefit your career in the long run.
 
 
-## So, What Does A Smart Question Look Like?
-The following entry displays a ReactJS related question, where the user wanted to know how to activate a progress bar countdown after the pushing of a button to show the amount of time before the button was to be active again.
+## So, What Does A Smart Question _Look_ Like?
+The following entry displays a ReactJS related question, where the user wanted to know how to activate a progress bar 
+countdown after the pushing of a button to show the amount of time before the button was to be active again.
 
 ```
 Q: I am trying to activate a progressbar countdown after I push abutton. 
@@ -104,12 +107,11 @@ Thanks for pointing in the right direction to solve this problem.
 
 ```
 
-The user starts off by stating the problem and the goal that they have for their code, and they provide their code in a way 
-that is easy to read. They also list the measures that they had taken to figure out their problem before posting to Stack 
+The user starts by stating the problem and the goal that they have for their code, and they provide their code in a way that is easy to read. They also list the measures that they had taken to figure out their problem before posting to Stack 
 Overflow, such as linking the posts that they had gone to, as they had included links to the sites that they had gone on. 
 There are some grammatical errors, and while there could have been some parts that the user could have specified further, the post is formatted nicely and is easy to read. It is a decent question, which in turn, allowed this user to get the answer that they needed. 
 
-## So, What Does A Not Smart Question Look Like?
+## A: STFW!
 
 The following entry displays a user that had asked for help regarding their C program in which their goal was to read in data from a file, but they were having trouble reading in the file's contents and had mentioned that they were reading in random characters.
 
