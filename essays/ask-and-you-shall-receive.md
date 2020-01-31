@@ -39,9 +39,11 @@ user wanted to know how to activate a progress bar countdown after the pushing
 of a button to show the amount of time before the button was to be active again.
 
 ```
-Q: I am trying to activate a progressbar countdown after I push abutton. 
-So the button will be disabled for 90 seconds. After the 
-progressbar arrived to 90, the button will be active again. How to do that?
+Q: I am trying to activate a progressbar 
+countdown after I push abutton. 
+So the button will be disabled for 90 seconds. 
+After the progressbar arrived to 90, the button 
+will be active again. How to do that?
 
 Below is what I was able to achieve so far:
 
@@ -53,7 +55,8 @@ class BoatMap extends Component {
         this.state = {
             buttonEnabled: true
         };
-        this.updateRequest = this.updateRequest.bind(this);
+        this.updateRequest = 
+        this.updateRequest.bind(this);
     }
 
     updateRequest() {
@@ -84,7 +87,8 @@ class BoatMap extends Component {
                             <div class="value-bar" />
                         </div>
                     </div>
-                    <button className="btn-next-request" onClick={() 
+                    <button className=
+                    "btn-next-request" onClick={() 
                     => this.updateRequest()}>
                         Time to Next API Request
                     </button>
@@ -123,11 +127,13 @@ There are some grammatical errors, and while there could have been some parts th
 The following entry displays a user that had asked for help regarding their C program in which their goal was to read in data from a file, but they were having trouble reading in the file's contents and had mentioned that they were reading in random characters.
 
 ``` 
-Q: Hello so i am creating a program that reads from a file and outputs 
+Q: Hello so i am creating a program that 
+reads from a file and outputs 
 each category of the things in the text in sorted for 
 example i want it to output like this :
 
-Company name: air france Date of creation: 06281957 Flight number: AT6801 
+Company name: air france 
+Date of creation: 06281957 Flight number: AT6801 
 Incoming city: london Arrival city: paris Amount of 
 fuel liters left: 380 Plane category: B777
 this is the input :
@@ -148,13 +154,18 @@ The code:
 int main()
 {
     FILE *inp,*outp;
-    int i,j,c=0,l,c2=0,c3=0;int c4=0;int c5=0,c6=0,k,m,c7=0,flag=0;int 
-    c8=0,c9=0,c10=0,flag2=0,n,c11=0,c12=0,c13=0,c14=0,p=0,
+    int i,j,c=0,l,c2=0,c3=0;
+    int c4=0;int c5=0,c6=0,k,m,c7=0,flag=0;int 
+    c8=0,c9=0,c10=0,
+    flag2=0,n,c11=0,c12=0,c13=0,c14=0,p=0,
     c15=0,c16=0,t,t1,t2,t3,t4,t5,t6,t7,s;
-    char ultimate_array[600];char plane[100][6];
-    char date[600][6];char nflight[600][6];
+    char ultimate_array[600];
+    char plane[100][6];
+    char date[600][6];
+    char nflight[600][6];
     char  destination[100][6];
-    char fuel[100][6];char planetype [100][6];
+    char fuel[100][6];
+    char planetype [100][6];
 
     inp=fopen("input.txt","r");
 
@@ -238,7 +249,8 @@ int main()
                     {
                         c13=c7; flag2=1;
                     }
-                    destination[t][c7]=ultimate_array[m];
+                    destination[t][c7]=
+                    ultimate_array[m];
                     c7--; m--;
                 }
                 break;
@@ -253,7 +265,8 @@ int main()
                 c12=c11; c11=c11-1;
                 while(c11>=0)
                 {
-                    fuel[t][c11]=ultimate_array[n];
+                    fuel[t][c11]=
+                    ultimate_array[n];
                     c11--; n--;
                 }
                 break;
@@ -269,7 +282,8 @@ int main()
             {
                 while(c16>=0)
                 {
-                    planetype[t][c16]=ultimate_array[p];
+                    planetype[t][c16]=
+                    ultimate_array[p];
                     c16--; p--;
                 }
                 break;
@@ -318,19 +332,30 @@ int main()
     return 0;
 }
 
-I have been struggling with a lot of things but I finally managed to separate every 
-category to a different array, however ,when I tried to do it for 2D array 
-I always get garbage can someone point out what the mistake I did ?
+I have been struggling with a lot of things 
+but I finally managed to separate every 
+category to a different array, however ,
+when I tried to do it for 2D array 
+I always get garbage can someone point out 
+what the mistake I did ?
 
-we couldn't read in the input file and write it in a 2D array so the concept that i 
-have used in this code i search in the array until i find something that would help 
-me separate the word from the others such as 06281957 in the input i used isdigit 
-to identify which index has it then i copy the previous characters into a new array 
-this trick seemed to work for a 1d array however when i tried to scan it to 2d it stopped 
-working and only random chars seemed to appeari wanted to print the whole 2d 
-array of each category but i failed to do so, for the variables i used them as 
+we couldn't read in the input file and write it 
+in a 2D array so the concept that i 
+have used in this code i search in the array until 
+i find something that would help 
+me separate the word from the others such as 06281957 
+in the input i used isdigit 
+to identify which index has it then i copy 
+the previous characters into a new array 
+this trick seemed to work for a 1d array however 
+when i tried to scan it to 2d it stopped 
+working and only random chars seemed to appeari 
+wanted to print the whole 2d 
+array of each category but i failed to 
+do so, for the variables i used them as 
 checkpoints for the next check to put the things i want in a new array. 
-For minimizing the code i cant seem to find another solution to do so i know that my code is 
+For minimizing the code i cant seem to find another 
+solution to do so i know that my code is 
 very big but if someone has a better idea it would be awesome.
     
 ```
