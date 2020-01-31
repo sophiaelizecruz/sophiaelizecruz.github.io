@@ -12,7 +12,7 @@ labels:
 
 Regardless of our skill level as software engineers, we all come to a point where we will need to ask others for help. However, that is only half the battle. The question is, _how_ do we ask for help? 
 
-<img class="ui medium right floated rounded image" src="/images/music.jpg" length="800" width="1000">
+<img class="ui medium right floated rounded image" src="/images/glass.png" length="800" width="1000">
 
 ## What Constitutes A Smart Question? 
 
