@@ -12,7 +12,7 @@ labels:
 summary: A magazine that I had worked on with a peer for our Capstone project for our second year graphics class.
 ---
 
-<img class="ui large floated rounded image" src="/images/cover stuff.jpeg" length="800" width="800">
+<img class="ui large right floated rounded image" src="/images/cover stuff.jpeg" length="700" width="800">
 
 As part of our Capstone project for my high school's second year Graphic Tech class, we were tasked to create a magazine using Adobe applications.  In groups, we were assigned a topic based on the Hawaii State Department of Education's framework Nā Hopena A‘o (HĀ), and my group had gotten "A Strengthened Sense of Belonging". We were to include written pieces about what it meant to have a sense of belonging in one's school and community, as well as provide a fieldwork log documenting the process of creating our magazine. At the end of the semester, our magazines were displayed at a showcase, and we had received the "Best in Content" award for our magazine.
 
