@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Ask, And You Shall Receive
+title: Looking Beyond That Squiggly Brace
 # All dates must be YYYY-MM-DD format!
 date: 2020-02-12
 labels:
@@ -9,6 +9,7 @@ labels:
   - Learning
 ---
 
+<img class="ui medium right floated rounded image" src="/images/glass.png" length="800" width="1000">
 
 ## Darn! That One Curly Bracket!
 
