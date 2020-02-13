@@ -10,9 +10,9 @@ labels:
 ---
 
 <img class="ui medium right floated rounded image" src="/images/code_quality_2.png" length="800" width="1000">
->
-> "Whatever, it runs fine for now."
-> "So does a burning bus."
+
+> Whatever, it runs fine for now.
+> So does a burning bus.
 
 ## Darn! That One Curly Bracket!
 
