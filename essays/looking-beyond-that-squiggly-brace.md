@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<img class="ui medium right floated rounded image" src="/images/glass.png" length="800" width="1000">
+<img class="ui medium right floated rounded image" src="/images/coding_style_2.png" length="800" width="1000">
 
 ## Darn! That One Curly Bracket!
 
