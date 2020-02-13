@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Looking Beyond That Squiggly Brace
+title: Looking Beyond Those Curly Brackets
 # All dates must be YYYY-MM-DD format!
 date: 2020-02-12
 labels:
