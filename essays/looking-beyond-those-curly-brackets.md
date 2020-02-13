@@ -7,6 +7,8 @@ date: 2020-02-12
 labels:
   - Coding Style
   - Learning
+  - ESLint
+  - IntelliJ IDEA
 ---
 
 <img class="ui medium right floated rounded image" src="/images/code_quality_2.png" length="800" width="1000">
