@@ -1,4 +1,14 @@
-
+---
+layout: essay
+type: essay
+title: 
+# All dates must be YYYY-MM-DD format!
+date: 2020-02-26
+labels:
+  - Semantic UI
+  - HTML
+  - CSS
+---
 
 UI Frameworks are not simple. In fact, they can be almost as complicated to learn as a new programming language. 
 Given that, why bother to use something like Semantic UI? What does one get in return for the investment of time 
