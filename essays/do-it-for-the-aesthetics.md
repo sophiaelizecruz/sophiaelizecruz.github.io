@@ -12,7 +12,9 @@ labels:
 ---
 
 <img class="ui medium right floated rounded image" src="/images/frameworks.jpg" length="800" width="1000">
+
 ## Yeah, why bother using something like Semantic UI?
+
 UI Frameworks can definitely be difficult to understand, but they prove to be very useful and make designing web pages a lot more convenient. Semantic UI, being powered by jQuery and LESS, is one of these UI Frameworks. It provides components and styles in a way in which the code is easier to read and thus easier to anticipate the layout and find bugs. With classes using 
 "syntax from natural languages like noun/modifier relationships, word order, and plurality," (as phrased by Semantic UI) it aims to be "human-friendly."
 
