@@ -12,6 +12,8 @@ labels:
 
 > Man. I actually miss those in-person WODS.
 
+<img class="ui medium right floated rounded image" src="/images/frameworks.jpg" length="800" width="1000">
+
 ## The New Normal?
 With UH announcing that we would be switching to online classes until the end of the semester because of COVID-19, I was not 
 bothered by the news. For one, that meant that I could wake up a little later instead of having to scramble to get to the bus 
@@ -24,8 +26,9 @@ However, I miss walking to my classes and the food courts, getting some coffee f
 314, and those afternoons where I would be in ICSpace doing notes with other people from ICS 311. I miss going to men's 
 volleyball games and doing pep band, and I can't help but reminisce about last semester and my marching band rehearsals. I 
 miss the small, tedious things, such as waiting in the Starbucks line in the mornings and waiting for the bus at Sinclair 
-Circle. Like everyone else, I miss hanging out with my friends and wandering around the mall with them. It feels like not much 
-has changed, but at the same time, everything feels really out of reach and weird. Or, as our wise elders had once said, 
+Circle. Like everyone else, I miss hanging out with my friends and wandering around the mall with them, and I am itching for a 
+large avocado milk tea, fifty percent sweetness, large boba, light ice please, and thank you. It feels like not much has 
+changed, but at the same time, everything feels really out of reach and weird. Or, as our wise elders had once said, 
 "Thanks! I hate it!"
 
 ## School Time, Family Time
