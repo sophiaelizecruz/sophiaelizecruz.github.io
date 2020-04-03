@@ -12,7 +12,7 @@ labels:
 
 > Man. I actually miss those in-person WODS.
 
-<img class="ui medium right floated rounded image" src="/images/frameworks.jpg" length="800" width="1000">
+<img class="ui medium right floated rounded image" src="/images/r0_22_510_310_w1200_h678_fmax.jpg" length="800" width="1000">
 
 ## The New Normal?
 With UH announcing that we would be switching to online classes until the end of the semester because of COVID-19, I was not 
