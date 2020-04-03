@@ -68,7 +68,7 @@ I also learned that I have friends that fall on all points of this spectrum of s
 them camping out in their rooms, engrossed in the new Animal Crossing game and urging others to not go out unless it's really 
 necessary, while I see others gathering with their friends at the pool or playgrounds sipping their milk tea like any other 
 day. What's scary is that those same people are the ones who preach on social media to stay indoors and follow the stay-at-
-home orders. Bunch of hypocrites.
+home orders. What a bunch of hypocrites.
 
 However, there are a lot of good things that have been happening in the community. I am grateful to all the health care 
 workers who are risking their lives to help the sick and know people who are or have family members who are working around the 
