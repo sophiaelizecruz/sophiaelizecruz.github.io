@@ -8,8 +8,6 @@ labels:
   - Online learning
 ---
 
-# "Thanks, I Hate It!"
-
 > Man. I actually miss those in-person WODS.
 
 <img class="ui medium right floated rounded image" src="/images/r0_22_510_310_w1200_h678_fmax.jpg" length="800" width="1000">
