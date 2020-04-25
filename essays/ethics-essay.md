@@ -52,7 +52,9 @@ companies did not consider the well-being and safety of their customers when han
 consideration that tops the lists of the Association for Computing Machinery's Code of Ethics and Professional Conduct, as 
 well as the Software Engineering Code of Ethics and Professional Practice.
 
-Another thing to note is how the things that we create as software engineers can also be used in a malicious manner. In the 
+Another thing to note is how the things that we create as software engineers can also be used in a malicious manner. While VPNs are useful in the sense that 
+
+In the 
 case of Obnoxious, he had been able to mask his I.P. address using VPNs, making it harder for authorities to pinpoint the 
 location of the swatter.
 
