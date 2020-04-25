@@ -18,7 +18,13 @@ is your personal opinion as to the ethical stance to be taken?
 
 In the realm of software engineering, 
 
-A good software engineer must always consider the well-being of everyone around them, from their clients, to their colleagues, to their company, besides their own well-being.
+Ethics is not something as clockwork as a computer. There are many fine lines and gray areas that software engineers must 
+navigate through when designing, implementing and deploying and maintaining their applications. What is the purpose of the 
+application, and what are the implications of it? Who will this application affect, and how will it affect them? What can I do 
+to eradicate and/or prevent the harm that this project presents, and if there is  , what is the justification of that detail, 
+and what can be done to minimize it?
+A good software engineer must always consider the well-being of everyone around them, from their clients, to their colleagues, 
+to their company, besides their own well-being. They must be able to 
 
 
 ## Case In Point: The Serial Swatter
@@ -38,17 +44,34 @@ sympathize for you going through that — best of luck to the police to catch th
 While Twitch had eventually formally addressed the case by including a section on swatting in their Education portal and 
 providing information on protection from DDoS and other forms of harassment online, their reaction to the case was slow, and 
 the way that the organization had responded to these victims showed that they were slow to consider the well-being of their 
-stakeholders and were not acting for the good of the public. We must also question the ethics of the Internet companies 
-involved in these incidents. The ease that Obnoxious had when calling these companies and obtaining information about these 
-streamers calls into question the safety protocols that these Internet companies had at the time, and how flimsy they were. 
-Such protocols and actions show that these companies did not consider the well-being and safety of their customers when 
-handling their customers' information, a consideration that tops the lists of the Association for Computing Machinery's Code 
-of Ethics and Professional Conduct, as well as the Software Engineering Code of Ethics and Professional Practice.
+stakeholders and were not acting for the good of the public. We must also question the ethics of the companies 
+involved in these incidents, such as the various Internet companies that Obnoxious had called, to Amazon. The ease that 
+Obnoxious had when calling these companies and obtaining information about these streamers calls into question the safety 
+protocols that these Internet companies had at the time, and how flimsy they were. Such protocols and actions show that these 
+companies did not consider the well-being and safety of their customers when handling their customers' information, a 
+consideration that tops the lists of the Association for Computing Machinery's Code of Ethics and Professional Conduct, as 
+well as the Software Engineering Code of Ethics and Professional Practice.
 
 Another thing to note is how the things that we create as software engineers can also be used in a malicious manner. In the 
-case of Obnoxious, he had been able to mask his I.P. address using VPNs
-- VPNs
+case of Obnoxious, he had been able to mask his I.P. address using VPNs, making it harder for authorities to pinpoint the 
+location of the swatter.
 
+
+
+Software engineers must consider their stakeholders as their top priority, and in the long run
+
+Looking at incidents such as the Serial Swatter, Gamergate, as well as the other occurrences of racial, sexual, religious and 
+many other forms of harassment that occur online, companies must consider better protocols in terms of handling these cases. 
+It was agonizing to read through the events leading up to Obnoxious's arrest, especially with how Twitch had tried to hide 
+away from the situation instead of cooperating with authorities and these victims to eradicate the 
+problem before it spiraled out of control.
+
+While they may be dealing with millions upon millions of users, it is a tech company's reponsibility to understand that their 
+users are real people, and that the problems that occur online are not only restricted to a screen. Online commerce
+has become as routine as breathing to most of us: with the technology available to us today, our lives are intertwined with 
+these social networking sites and online services one way or another. It's only right for tech companies to enforce their 
+rules and maintain their protocols regarding user issues and harassment to ensure the safety and well-being of their users, as 
+well as the integrity of the company and the employees involved.
 
 - you can be the greatest programmer in the world, but without the right professional skills and ethics, those skills mean 
 nothing
