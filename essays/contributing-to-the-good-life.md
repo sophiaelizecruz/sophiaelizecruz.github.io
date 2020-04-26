@@ -9,8 +9,8 @@ labels:
   - Software Engineering
 ---
 
-> The principles of the code do not constitute an algorithmic Turing machine that solves ethical problems. Professional 
-judgments are still necessary.
+> *The principles of the code do not constitute an algorithmic Turing machine that solves ethical problems. Professional 
+judgments are still necessary.*
 
 <img class="ui medium right floated rounded image" src="/images/ethics.jpg" length="800" width="1000">
 
