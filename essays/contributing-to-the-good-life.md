@@ -12,7 +12,7 @@ labels:
 > The principles of the code do not constitute an algorithmic Turing machine that solves ethical problems. Professional 
 judgments are still necessary.
 
-## For The Good Life
+## "The Good Life"
 
 Ethics is not something as clockwork as a computer. There are many fine lines and gray areas that software engineers must 
 navigate through when designing, implementing, deploying, and maintaining their applications. What is the purpose of the 
