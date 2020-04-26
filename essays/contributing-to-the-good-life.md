@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Contributing to the Good Life"
-date: 2020-04-23
+date: 2020-04-25
 labels:
   - Ethics
   - Professionalism
