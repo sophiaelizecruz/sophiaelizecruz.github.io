@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: ""
+title: "Contributing to the Good Life"
 date: 2020-04-23
 labels:
   - Ethics
