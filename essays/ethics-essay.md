@@ -6,34 +6,46 @@ date: 2020-04-23
 labels:
   - Ethics
   - Professionalism
+  - Software Engineering
 ---
 
 > The principles of the code do not constitute an algorithmic Turing machine that solves ethical problems. Professional 
 judgments are still necessary.
 
-
-You should begin by discussing, in your own words, what you think “ethics” means in the context of software engineering. Then, 
-describe the situation you chose to analyze with respect to its ethical implications. Finally, present your conclusions: what 
-is your personal opinion as to the ethical stance to be taken?
-
-In the realm of software engineering, 
+## For The Good Life
 
 Ethics is not something as clockwork as a computer. There are many fine lines and gray areas that software engineers must 
-navigate through when designing, implementing and deploying and maintaining their applications. What is the purpose of the 
+navigate through when designing, implementing, deploying, and maintaining their applications. What is the purpose of the 
 application, and what are the implications of it? Who will this application affect, and how will it affect them? What can I do 
-to eradicate and/or prevent the harm that this project presents, and if there is  , what is the justification of that detail, 
-and what can be done to minimize it?
-A good software engineer must always consider the well-being of everyone around them, from their clients, to their colleagues, 
-to their company, besides their own well-being. They must be able to 
+to eradicate and/or prevent the harm that this project presents and if harm is an intentional part of the system, what is 
+the justification for including it, and what can be done to minimize it? These are only a few of the many questions that 
+software engineers will encounter in their line of work.
 
+A good software engineer must always consider the well-being of everyone around them, from their clients to their colleagues, 
+to their company. Besides having technical skills, software engineers must also be proficient with their soft skills. This 
+includes being able to communicate with their colleagues efficiently as well as knowing when to be brutally honest when a 
+decision could potentially harm your stakeholders. A good software engineer must also be able to embrace the experiences that 
+they encounter. To really understand how the application that you are developing will affect the people around you, it is 
+important for software engineers to learn about the world and expose themselves to different cultures and people.
 
-## Case In Point: The Serial Swatter
+Software engineering, like any other profession, must be responsible for their own growth, and rather than judging and 
+criticizing others, and should take the time to see if they are upholding the values and morals that they believe in. This 
+involves being able to be resilient while under pressure, and if things take a turn for the worst, they must have the ability 
+to take responsibility for their actions. They should also strive to provide their customers with systems that are safe and 
+efficient by paying attention to details and not cutting corners with their code. Finally, a software engineer should be aware 
+of their limits and technical capabilities, as their pride could ultimately bring about great harm to the people around them.
+
+All in all, a software engineer must always perform to the best of their ability, and they must have the drive to improve the 
+lives of the people who use their systems. Unfortunately, with the pace that our systems and technologies are evolving, good 
+morals and practices are slowly being left on the backburner.
+
+## The Wake Up Call: The Case of the Serial Swatter 
 
 In the case study regarding the harassment of users online and the actions that companies take to address these issues, the 
 problem of a lack of intervention in cases of online harassment is brought to the forefront. One such case had been the case 
-of the Serial Swatter, in which a sixteen year old from Canada known as Obnoxious had harassed other female Twitch streamers. 
+of the Serial Swatter, in which a sixteen-year-old from Canada known as Obnoxious had harassed other female Twitch streamers. 
 His actions included sending disturbing and threatening messages to these streamers as well as being able to easily access 
-these streamers personal information by calling Internet service providers and using a small piece of information about these 
+these streamers' personal information by calling Internet service providers and using a small piece of information about these 
 streamers to obtain more information about them. Some of his other malicious actions ranged from sending strange pizzas to the 
 streamer's house, to sending over a SWAT team to the streamer's home or school if they continued to ignore his messages. The 
 reaction to the criminal was a slow and agonizing one on Twitch's end; several victims had reached out to Twitch to report 
@@ -52,40 +64,25 @@ companies did not consider the well-being and safety of their customers when han
 consideration that tops the lists of the Association for Computing Machinery's Code of Ethics and Professional Conduct, as 
 well as the Software Engineering Code of Ethics and Professional Practice.
 
-Another thing to note is how the things that we create as software engineers can also be used in a malicious manner. While VPNs are useful in the sense that 
+Another thing to recognize is that while we may think that the applications and services that we use are well maintained, we 
+undermind the idea that these things can be used against us. For example, while there are benefits to using a VPN such as a 
+user's privacy and security, others may use it to conceal their malicious activities. In Obnoxious's case, he had been able to 
+mask his I.P. address using VPNs, making it harder for authorities to pinpoint the location of the swatter.
 
-In the 
-case of Obnoxious, he had been able to mask his I.P. address using VPNs, making it harder for authorities to pinpoint the 
-location of the swatter.
+## Looking to the Future
 
+Looking back at incidents such as the Serial Swatter, Gamergate, as well as the  racial, sexual, religious, and other forms of 
+harassment that occur online, companies should consider better protocols in terms of handling these cases. It was agonizing to 
+read through the events leading up to Obnoxious's arrest, especially with how Twitch seemed to hide away from the 
+situation only to finally address it when they were told about the magnitude of the case. I feel that they should have taken 
+immediate action, cooperating with authorities and these victims to eradicate the problem before it spiraled out of control. 
+Some companies have some protocols installed for users to report harassment and other shady activities online, but the 
+handling of these cases may have mixed results: in reaching out to a social media company regarding some threats that they had 
+received online, the user had sent multiple emails and tickets to the company, but had not heard anything from them.
 
-
-Software engineers must consider their stakeholders as their top priority, and in the long run
-
-Looking at incidents such as the Serial Swatter, Gamergate, as well as the other occurrences of racial, sexual, religious and 
-many other forms of harassment that occur online, companies must consider better protocols in terms of handling these cases. 
-It was agonizing to read through the events leading up to Obnoxious's arrest, especially with how Twitch had tried to hide 
-away from the situation instead of cooperating with authorities and these victims to eradicate the 
-problem before it spiraled out of control.
-
-While they may be dealing with millions upon millions of users, it is a tech company's reponsibility to understand that their 
-users are real people, and that the problems that occur online are not only restricted to a screen. Online commerce
-has become as routine as breathing to most of us: with the technology available to us today, our lives are intertwined with 
-these social networking sites and online services one way or another. It's only right for tech companies to enforce their 
-rules and maintain their protocols regarding user issues and harassment to ensure the safety and well-being of their users, as 
-well as the integrity of the company and the employees involved.
-
-- you can be the greatest programmer in the world, but without the right professional skills and ethics, those skills mean 
-nothing
-- Ethics = do I do it? Who will it affect
-- Software engineering as a newer engineering discipline = finding its place amongst engineering ethics
-- ethics should not be deemed as a checklist, it should be treated as an internal, mental aspect
-  - need people experience, project management experience, communication, interaction, cultural exposure, etc.
-- ethical codes are only the start of it = it's how you choose to practice and how often you practice these ideas, some 
-experiences do not follow/blur amongst these laid out codes, in which it is up to you to use your judgement to maneuver 
-through these situations in your professional life
-- indicate the specific ethical duties that engineers of the highest professional standing expect their present and future 
-colleagues to respect, and to fulfill
-- strong sense of individual responsibility, acute awareness of the world around them, brutal honesty, resilience under 
-pressure, a heightened sense of fairness, attention to detail while maintaining perspective, and pragmatism in applying 
-professional standards
+While they may be dealing with millions upon millions of users, it is a tech company's responsibility to understand that their 
+users are real people. The use of technology and the internet has become as routine as breathing to most of us: with the 
+the technology available to us today, our lives are intertwined with these social networking sites and online services one way 
+or another. It's only right for tech companies to enforce their rules and maintain their protocols regarding user issues and 
+harassment to ensure the safety and well-being of their users, as well as the integrity of the company and the employees 
+involved.
