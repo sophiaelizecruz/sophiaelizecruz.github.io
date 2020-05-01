@@ -9,7 +9,7 @@ labels:
   - Object Orientation
 ---
 
->> Work smarter, not harder.
+> Work smarter, not harder.
 
 ## Consider The Beauty Within
 When thinking about design patterns, a lot of people immediately think about the aesthetics in terms of art and refer to 
