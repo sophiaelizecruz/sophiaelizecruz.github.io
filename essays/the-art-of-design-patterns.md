@@ -1,4 +1,13 @@
-
+---
+layout: essay
+type: essay
+title: "The Art of Design (Patterns)"
+date: 2020-04-30
+labels:
+  - Design Patterns
+  - Software Engineering
+  - Object Orientation
+---
 
 
 Design Patterns are essentially finding 
