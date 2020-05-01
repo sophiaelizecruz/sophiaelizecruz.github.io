@@ -11,6 +11,8 @@ labels:
 
 > Work smarter, not harder.
 
+<img class="ui medium right floated rounded image" src="/images/puzzle.jpg" length="800" width="1000">
+
 ## Consider The Beauty Within
 When thinking about design patterns, a lot of people immediately think about the aesthetics in terms of art and refer to 
 principles of design that leans more art and graphic design. However, in software engineering and in a lot of disciplines 
