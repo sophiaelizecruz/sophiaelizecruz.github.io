@@ -20,16 +20,30 @@ design patterns.
 Design patterns are solutions that can be reused to commonly occurring problems in software design, and provide a sense of 
 organization and elegance during the development process. When describing a design pattern, a software engineer must recognize 
 what their task is, consider the patterns relevant to the task at hand that can be used to solve the problem, and from there, 
-weigh out the positive and negative consequences for each possible solution.
+weigh out the positive and negative consequences for each possible solution. We are able to understand and view the 
+relationships and interactions between objects and classes, and some of these patterns include the creation of objects, how we 
+represent collections of objects, as well as how these objects behave by themselves and with other objects with each pattern. 
+Some common examples of design patterns are factory, singleton, observer, and the model-view-controller problem, in which the 
+model-view problem has different approaches such as the model-view-adapter (MVA).
 
-In introductory computer science classes, many students will encounter the Singleton class, in which it provides a global 
-variable to an object oriented language that would otherwise not support global variables or a complex global state. 
-Alongside that, singletons only allow one instance of a class to to exist. While it does allow developers to implement lazy 
-inititalization, the use of singletons and global variables in practice is unwise, and is not thread-safe. 
+In introductory computer science classes, students will more often than not encounter the factory and singleton pattern. The 
+factory pattern provides the leisure of being able to return objects associated with different classes, and in a sense, that 
+provides a level of efficiency. However, we must consider that despite the its welcoming nature, it can be more complicated 
+than an object-oriented class constructor. Another common pattern that new students encounter is the singleton pattern, in 
+which it provides a global variable to an object oriented language that would otherwise not support global 
+variables or a complex global state. Alongside that, singletons only allow one instance of a class to to exist. While it does 
+allow developers to implement lazy inititalization, the use of singletons and global variables in practice is unwise, and is 
+not thread-safe, so new programmers should be careful to not develop a bad habit of relying on this pattern.
+
+Some of the other patterns that a software engineer may encounter is the observer pattern that is common in event-driven systems such that you must provide one or more "event-handlers," 
+
+## The Solution: "Think Like A Computer Scientist"
 
 While design patterns may seem intimidating, it is just a matter of adapting to a certain mentality when approaching the 
-problem. By experiencing these design patterns through classes and projects outside of them, you are essentially 
-developing a toolbelt of tips and tricks that you can apply to similar situtations that you may encounter in the future. 
+problem. Having used singletons and factory patterns in introductory courses, I now see how knowing and practicing these 
+patterns constantly will help the development and design process go by much smoother. By experiencing these design patterns 
+through classes and projects outside of them, you are essentially developing a toolbelt of tips and tricks that you can apply 
+to similar situtations that you may encounter in the future. 
 
 Design Patterns are essentially finding 
 
@@ -53,4 +67,3 @@ A common interview question is “What are design patterns?”, followed by “W
 
 For this technical essay, you will write an interesting and informative technical essay that 
 ends up answering these two questions. 
-By doing so, you’ll be better prepared to answer this question if it comes up in an interview.
