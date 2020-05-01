@@ -9,7 +9,7 @@ labels:
   - Object Orientation
 ---
 
-> Work smarter, not harder.
+**"Work smarter, not harder.**
 
 <img class="ui medium right floated rounded image" src="/images/puzzle.jpg" length="800" width="1000">
 
