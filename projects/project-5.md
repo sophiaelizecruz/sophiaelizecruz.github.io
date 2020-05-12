@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/logo2.png
-title: Nā Hopena A‘o (HĀ), A Sense of Belonging
+title: TextRealm
 permalink: projects/senseofbelonging
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-07
