@@ -11,12 +11,9 @@ labels:
   - MongoDB
   - Meteor
   - Project Management
-summary: A magazine that I had worked on with a peer for our Capstone project for our second year graphics class.
+summary: An application that me and some peers developed that allows UH students to easily buy and sell textbooks with other UH students for our final project for our software engineering class.
 ---
 
-
-An application that me and some peers developed that allows UH students to easily buy and sell textbooks with other UH students for our final project for our software engineering class.
-
-<img class="ui medium right floated rounded image" src="/images/textrealmlogo.png" length="1000" width="800">
+<img class="ui medium left floated rounded image" src="/images/textrealmlogo.png" length="1000" width="800">
 
 
