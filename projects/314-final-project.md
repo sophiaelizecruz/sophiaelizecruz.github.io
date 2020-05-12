@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/logo2.png
+image: images/textrealmlogo.png
 title: TextRealm
 permalink: projects/textrealm
 # All dates must be YYYY-MM-DD format!
