@@ -5,7 +5,7 @@ image: images/logo2.png
 title: TextRealm
 permalink: projects/textrealm
 # All dates must be YYYY-MM-DD format!
-date: 2018-05-07
+date: 2020-05-07
 labels:
   - Adobe Illustrator
   - Adobe InDesign
