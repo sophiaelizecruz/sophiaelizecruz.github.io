@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/logo2.png
 title: TextRealm
-permalink: projects/senseofbelonging
+permalink: projects/textrealm
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-07
 labels:
