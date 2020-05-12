@@ -14,6 +14,7 @@ labels:
   - JavaScript
 summary: An application that me and some peers developed that allows UH students to easily buy and sell textbooks with other 
 UH students.
+
 ---
 
 
