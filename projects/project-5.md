@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/hopena.png
+image: images/logo2.png
 title: Nā Hopena A‘o (HĀ), A Sense of Belonging
 permalink: projects/senseofbelonging
 # All dates must be YYYY-MM-DD format!
