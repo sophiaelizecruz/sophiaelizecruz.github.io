@@ -7,8 +7,10 @@ permalink: projects/textrealm
 # All dates must be YYYY-MM-DD format!
 date: 2020-05-07
 labels:
-  - Adobe Illustrator
-  - Adobe InDesign
+  - Software Engineering
+  - MongoDB
+  - Meteor
+  - Project Management
 summary: A magazine that I had worked on with a peer for our Capstone project for our second year graphics class.
 ---
 
