@@ -27,4 +27,7 @@ site for other users to see. Administrators of the site have the power to view a
 delete an entry if it contains inappropriate content. 
 
 This project had presented many challenges as we progressed, such as some team members being unable to fulfill the tasks that 
-they were given, and that the circumstances did not allow for us to meet up as frequently as I would have liked. 
+they were given, and that the circumstances did not allow for us to meet up as frequently as I would have liked.
+
+You can find our project's home page [here](https://textrealm.github.io/) and our GitHub organization with our source code 
+[here](https://github.com/textrealm).
