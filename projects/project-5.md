@@ -24,17 +24,17 @@ students, and can also sell textbooks that they own by uploading an entry to the
 books based on the book's ISBN-10, the title of the book, or the author of the book. Users are also able to review their 
 buying experience with another user by rating and commenting on their experience, in which their response is displayed on the 
 site for other users to see. Administrators of the site have the power to view all of the textbooks in the database and can 
-delete an entry if it contains inappropriate content. 
+delete an entry if it contains inappropriate content.
 
 This project had presented many challenges as we progressed, such as some team members being unable to fulfill the tasks that 
 they were given, and that the circumstances did not allow for us to meet up as frequently as I would have liked. However, we 
 had been able to finish the project as we managed to work out our issues and aid each other whenever we needed it. While it 
-was really stressful at times, I feel like I've gained a lot from this project experience, from checking up on my teammates 
-and communicating as effectively as possible with them given the circumstances with COVID-19, to recognizing each team 
-member's strengths and weaknesses that they brought to the table, and utilizing those strengths to produce a quality 
-application. This project management experience helped me to leave my comfort zone and exercise my leadership skills, while 
-allowing me to display the knowledge that I had collected throughout this software engineering class. Moving forward, I hope 
-to improve and eventually master these skills and habits as my career progresses.
+was stressful at times, I feel like I've gained a lot from this project experience, from checking up on my teammates and 
+communicating as effectively as possible with them given the circumstances with COVID-19, to recognizing each team member's 
+strengths and weaknesses that they brought to the table, and utilizing those strengths to produce a quality application. This 
+project management experience helped me to leave my comfort zone and exercise my leadership skills while allowing me to 
+display the knowledge that I had collected throughout this software engineering class. Moving forward, I hope to improve and 
+eventually master these skills and habits as my career progresses.
 
 You can find our project's home page [here](https://textrealm.github.io/) and our GitHub organization with our source code 
 [here](https://github.com/textrealm).
