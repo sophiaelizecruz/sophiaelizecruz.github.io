@@ -16,6 +16,20 @@ Management is, and how you could see yourself applying it to different project c
 Be careful and do not assume the reader understands what “configuration management” or “design patterns” or whatever means. 
 You must define these terms if you are using them.
 
+# Welcome to the End
+
+Coming into 314, I was very excited to experience a building an application with a group and working on my web development 
+skills. While it took some time to get used to, I ended up looking forward to the Workout of the Day as it allowed me to 
+practice and demonstrate what I had learned from the module. The class was fast-paced and intense at times, but that's to be 
+expected of a 300-level class, and I honestly enjoyed every minute of the class. During my free time, I found 
+myself wanting to make my own sites and planning projects to do over the summer to practice the skills that I acquired, such 
+as designing a website for my high school's band and orchestra program. Besides the technical aspects of the class, I was 
+happy that we were able to develop our professional personas by developing our technical portfolio and exercising our project 
+management, communication, and problem-solving skills. Writing these technical essays helped me to review the content from the 
+modules, as well as utilize tools such as Grammarly to improve my writing. Developing my technical portfolio also helped me to 
+prepare for another program that I had taken this semester, which focused on resume/cover letter development and other career-
+related aspects.
+
 - more efficient problem solving
 - more skills beyond what i had conceived
 
