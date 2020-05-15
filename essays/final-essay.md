@@ -16,7 +16,8 @@ Management is, and how you could see yourself applying it to different project c
 Be careful and do not assume the reader understands what “configuration management” or “design patterns” or whatever means. 
 You must define these terms if you are using them.
 
-# Welcome to the End
+
+## Welcome to the End
 
 Coming into 314, I was very excited to experience a building an application with a group and working on my web development 
 skills. While it took some time to get used to, I ended up looking forward to the Workout of the Day as it allowed me to 
