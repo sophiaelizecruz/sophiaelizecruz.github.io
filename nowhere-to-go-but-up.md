@@ -1,11 +1,15 @@
 ---
 layout: essay
 type: essay
-title: "The Art of Design (Patterns)"
-date: 2020-05-13
+title: Nowhere To Go But Up"
+date: 2020-05-14
 labels:
   - Software Engineering
+  - ICS 314
+  - Life Lessons
 ---
+
+<img class="ui medium right floated rounded image" src="/images/comp.jpg" length="800" width="1000">
 
 Coming into 314, I was very excited to experience building an application with a group and working on my web development 
 skills. While it took some time to get used to, I ended up looking forward to the Workout of the Day as it allowed me to 
@@ -20,7 +24,8 @@ technical essays helped me to review the content from the modules, as well as ut
 writing. Developing my technical portfolio also helped me to prepare for another program that I had taken this semester, which 
 focused on resume/cover letter development and other career-related aspects. You would expect to only go over technical 
 concepts in a class like this, but in reality, it allowed me to develop a professional persona and allowed me to interact with 
-and make friends with the people in my major.
+and make friends with the people in my major. While I have a lot more to learn, I feel that 314 has given me the some very 
+valuable tools and that I will need to succeed down the line.
 
 ## So Many Environments to Choose From!
 
@@ -60,5 +65,4 @@ situation. There is some stigma around developers, with some stereotypes being t
 with little to no motivation to go outside, and that they just stay in and code, but that's completely false. With developing 
 applications, we must be wary of our stakeholders and the people around us. It's the experiences and interactions with others 
 that help developers to build systems that are efficient and easy to use; you can be the best programmer in the world if your 
-attitude and people skills are not up 
-to par, that means nothing.
+attitude and people skills are not up to par, that means nothing.
