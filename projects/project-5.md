@@ -15,7 +15,7 @@ labels:
 summary: An application that me and some peers developed that allows UH students to easily buy and sell textbooks with other UH students for our final project for our software engineering class.
 ---
 
-<img class="ui medium center floated rounded image" src="/images/Portfolio.png" length="1000" width="800">
+<img class="ui medium center floated rounded image" src="/images/textrealmlogo.png" length="1000" width="800">
 
 TextRealm is an application that I had developed along with three other peers for our final project for our software 
 engineering class. The purpose of the site is to allow UH students to easily buy and sell their textbooks to other UH students 
@@ -36,7 +36,9 @@ communicating as effectively as possible with them given the circumstances with 
 strengths and weaknesses that they brought to the table, and utilizing those strengths to produce a quality application. This 
 project management experience helped me to leave my comfort zone and exercise my leadership skills while allowing me to 
 display the knowledge that I had collected throughout this software engineering class. Moving forward, I hope to improve and 
-eventually master these skills and habits as my career progresses.
+eventually master these skills and habits as my college career progresses.
+
+<img class="ui medium center floated rounded image" src="/images/Portfolio.png" length="1000" width="800">
 
 You can find our project's home page [here](https://textrealm.github.io/) and our GitHub organization with our source code 
 [here](https://github.com/textrealm).
