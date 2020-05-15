@@ -40,21 +40,6 @@ evaluation of mathematical functions and avoids changing state and mutable data
  -utilities that return functions
  -underscore library implements these utilities for javascript
  - reading in data, filtering, mapping
-Development Environments
-- IDE = integrated development environment, software development tool with following properties
-- language aware editing
-- project definition facilities
-- integrated compilation
-- a debugger (integrated stepwise execution)
-- integration with configuration management
-- refactoring = code readability, simplify structure
-- Examples of IDEs include Emacs, Eclipse, Visual Studio, Xcode, JBuilder, Idea
-Note pads not considered IDEs
-- more complicated and take time to master
-- slower
-But
-- can understand large software systems faster and correct them faster
-- improve them faster
 
 ## So Many Environments to Choose From!
 
@@ -71,17 +56,16 @@ will ultimately benefit you in the long run. From the semantics to the aesthetic
 back as you develop you applications and systems. There's many to choose from, so it's essential to find one based on the 
 application's domain and the technology stack that you are using.
 
+## Sit Still, Look Pretty
+
+I had taken graphic design classes for two years in high school, so when we had reached the part of the course that focused on 
+UI Frameworks, I was estatic to be able to apply my skills to this module. With user interface frameworks, it provides you 
+with a set of CSS classes and sometimes, Javascript functions that make it easier to design and create layouts. 
    
-Coding Standards
-- syntactic sugar
-- readability
-- knowing how to efficiently problem solve
-- ESLint
-  - detect and remove basic anti-patterns or generic coding mistakes associated with a language or library
+
 User Interface Frameworks
 - fonts, HTML5, CSS
-- UI frameworks = provides a set of CSS classes and Javascript functions that simplify the development of 
-the layout
+
 - provide and attractive look and feel
 - provide consistent results across browsers
 - support for interaction
