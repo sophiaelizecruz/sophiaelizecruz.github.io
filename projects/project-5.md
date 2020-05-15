@@ -11,7 +11,7 @@ labels:
   - MongoDB
   - Meteor
   - Project Management
-  - TextRealm
+  - Semantic UI React
 summary: An application that me and some peers developed that allows UH students to easily buy and sell textbooks with other UH students for our final project for our software engineering class.
 ---
 
