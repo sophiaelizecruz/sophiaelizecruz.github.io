@@ -56,7 +56,9 @@
         "C++",
         "Java",
         "Javascript",
-        "HTML/CSS"
+        "HTML/CSS",
+        "React",
+        "Semantic UI"
       ]
     },
     {
@@ -65,7 +67,7 @@
       "keywords": [
         "MacOS",
         "Git/GitHub",
-        "g++",
+        "g++/gcc",
         "Eclipse IDE"
       ]
     }
