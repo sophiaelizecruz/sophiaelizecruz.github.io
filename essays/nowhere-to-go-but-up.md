@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Nowhere To Go But Up"
+title: Nowhere To Go But Up
 date: 2020-05-14
 labels:
   - Software Engineering
