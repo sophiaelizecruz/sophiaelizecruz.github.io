@@ -55,7 +55,8 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "HTML/CSS"
       ]
     },
     {
@@ -82,7 +83,9 @@
         "ICS 141: Discrete Mathematics for Computer Science I",
         "ICS 211: Introduction to Computer Science II",
         "ICS 212: Program Structure",
-        "ICS 241: Discrete Mathematics for Computer Science II"
+        "ICS 241: Discrete Mathematics for Computer Science II",
+        "ICS 311: Algorithms (currently taking)",
+        "ICS 314: Software Engineering I (currently taking)"
       ]
     }
   ],
@@ -105,6 +108,12 @@
       "awarder": "University of Hawaii at Mānoa",
       "summary": "Scholarship is an automatic $2,000 scholarship per year for four years of undergraduate study for first-time degree seeking students. Students must have a 3.5 GPA, 1200 SAT or 23 ACT upon the time of application to UH Manoa."
     },
+    {
+      "title": "Summer Sessions Sophomore Merit Scholarship",
+      "date": "April 2020",
+      "awarder": "University of Hawaii at Mānoa Outreach College",
+      "summary": "The $1,200 award is to be applied towards the tuition for a single UH Mānoa Summer Sessions 2020 course. The student have UH Mānoa as your home campus in the Fall 2019 and Spring 2020 semesters, have sophomore standing (30-59 credits) at the end of the Fall 2019 semester (UH Mānoa and Transfer Credits), have a cumulative GPA of 3.5 or higher as of the end of the Fall 2019 semester (a student’s cumulative GPA is based on credit courses completed at UH Mānoa), and be registered for at least 3 credits in the Summer 2020 term by March 27, 2020"
+    }
     {
       "title": "Dean's List",
       "date": "2018-2019",
