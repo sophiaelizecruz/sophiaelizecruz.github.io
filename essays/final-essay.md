@@ -13,9 +13,6 @@ Agile Project Management called Issue Driven Project Management. Could you see y
 for a project not involving web applications? If so, then discuss what Agile Project Management is, what Issue Driven Project 
 Management is, and how you could see yourself applying it to different project contexts.
 
-Be careful and do not assume the reader understands what “configuration management” or “design patterns” or whatever means. 
-You must define these terms if you are using them.
-
 
 ## Welcome to the End
 
@@ -31,16 +28,6 @@ from the modules, as well as utilize tools such as Grammarly to improve my writi
 helped me to prepare for another program that I had taken this semester, which focused on resume/cover letter development and 
 other career-related aspects.
 
-Functional Programming
-- style of building the structure and elements of computer programs that treats computation as the 
-evaluation of mathematical functions and avoids changing state and mutable data
-- JavaScript
-  - functions as values, arguments to other functions, return value of functions
- - Function treated like a string, Integer, just another data object
- -utilities that return functions
- -underscore library implements these utilities for javascript
- - reading in data, filtering, mapping
-
 ## So Many Environments to Choose From!
 
 The beauty of integrated development environements is that as a developer, you are equipped with a system that makes 
@@ -54,9 +41,11 @@ refactoring, which allows you to rename variables, method, classes, and package 
 your application and helps to improve readability. While it may seem complicated to use and slower than NotePad or TextPad, it 
 will ultimately benefit you in the long run. From the semantics to the aesthetics of your code, these environments have your 
 back as you develop you applications and systems. There's many to choose from, so it's essential to find one based on the 
-application's domain and the technology stack that you are using.
+application's domain and the technology stack that you are using. By being able to adjust to different environments and brush 
+up on skills that seem challenging, it will end up becoming an assest for you later on, whether it's a technical skill, or a 
+soft one.
 
-## Sit Still, Look Pretty
+## Keep It Simple
 
 I had taken graphic design classes for two years in high school, so when we had reached the part of the course that focused on 
 UI Frameworks, I was estatic to be able to apply my skills to this module. With user interface frameworks, it provides you 
@@ -64,7 +53,6 @@ with a set of CSS classes and sometimes, Javascript functions that make it easie
    
 
 User Interface Frameworks
-- fonts, HTML5, CSS
 
 - provide and attractive look and feel
 - provide consistent results across browsers
