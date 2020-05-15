@@ -38,7 +38,7 @@ project management experience helped me to leave my comfort zone and exercise my
 display the knowledge that I had collected throughout this software engineering class. Moving forward, I hope to improve and 
 eventually master these skills and habits as my college career progresses.
 
-<img class="ui huge floated rounded image" src="/images/Portfolio.png">
+<img class="ui huge centered floated rounded image" src="/images/Portfolio.png">
 
 You can find our project's home page [here](https://textrealm.github.io/) and our GitHub organization with our source code 
 [here](https://github.com/textrealm).
