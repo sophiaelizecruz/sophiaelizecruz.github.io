@@ -25,7 +25,7 @@ books based on the book's ISBN-10, the title of the book, or the author of the b
 buying experience with another user by rating and commenting on their experience, in which their response is displayed on the 
 site for other users to see. Administrators of the site have the power to view all of the textbooks in the database and can 
 delete an entry if it contains inappropriate content. I had done the add/edit portions of the project, as well as created the 
-ratings system, the search portion, and the book and user profile pages using IntelliJ IDEA. Alongside implementing those 
+ratings system, the search portion, and the book and user profile pages in IntelliJ IDEA. Alongside implementing those 
 pages, I had also designed and created our logo in GIMP.
 
 This project had presented many challenges as we progressed, such as some team members being unable to fulfill the tasks that 
