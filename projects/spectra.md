@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/logo2.png
+image: images/eco.png
 title: Ecotronics
 permalink: projects/ecotronics
 date: 2020-08-09
