@@ -15,7 +15,7 @@ labels:
 summary: A web application submitted to the Spectra 4.0 hackathon that tackles the e-waste problem and provides resources for people to learn about tech and how to repurpose their e-waste.
 ---
 
-<img class="ui left medium floated rounded image" src="/images/eco.png" length="1000" width="800">
+<img class="ui medium floated right rounded image" src="/images/eco.png" length="1000" width="800">
 
 *You can view our entry on [Devpost](https://devpost.com/software/ecotronics) and our [repository](https://github.com/raegirl1/ecotronics-website) on GitHub.*
 
