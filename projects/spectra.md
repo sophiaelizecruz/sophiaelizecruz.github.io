@@ -39,6 +39,6 @@ about the time that we allot to the different stages of the development process.
 on the GUI, the aesthetics, its feel, and accessibility (i.e. utilizing APIs such as the Typeform APIs and exploring other frameworks to broaden my experience) so 
 that the content is way more eye-catching and effective to the user.
 
-<img class="ui large floated rounded image" src="/images/Screen Shot 2020-10-03 at 1.18.15 PM.png" length="1000" width="800">
+<img class="ui floated rounded image" src="/images/Screen Shot 2020-10-03 at 1.18.15 PM.png" length="1000" width="1000">
 
 *A screenshot from our entry video.*
