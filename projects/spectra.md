@@ -40,4 +40,5 @@ on the GUI, the aesthetics, its feel, and accessibility (i.e. utilizing APIs suc
 that the content is way more eye-catching and effective to the user.
 
 <img class="ui large floated rounded image" src="/images/Screen Shot 2020-10-03 at 1.18.15 PM.png" length="1000" width="800">
+
 *A screenshot from our entry video.*
