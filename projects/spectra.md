@@ -10,6 +10,7 @@ labels:
   - CSS
   - Spectra 4.0
   - Hackathons
+  - GitHub
 summary: A web application submitted to the Spectra 4.0 hackathon that tackles the e-waste problem and provides resources for people to learn about tech and how to repurpose their e-waste.
 ---
 
