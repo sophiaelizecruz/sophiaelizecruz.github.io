@@ -15,7 +15,8 @@ labels:
 summary: A web application submitted to the Spectra 4.0 hackathon that tackles the e-waste problem and provides resources for people to learn about tech and how to repurpose their e-waste.
 ---
 
-<img class="ui medium floated rounded image" src="/images/.png" length="1000" width="800">
+<img class="ui medium floated rounded image" src="/images/Screen Shot 2020-10-03 at 1.18.15 PM.png" length="1000" width="800">
+*A screenshot from our entry video.
 
 *You can view our entry on Devpost and our repository on GitHub.
 
