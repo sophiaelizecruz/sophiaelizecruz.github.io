@@ -91,11 +91,23 @@
         "ICS 314: Software Engineering I",
         "ICS 321: Database Systems I",
         "ICS 332: Operating Systems",
-        "ICS 414: Software Engineering II (Spring 2021)"
+        "ICS 414: Software Engineering II (Spring 2021)",
+        "ICS 432: Concurrent Programming (Fall 2021)",
+        "ICS 451: Data Networks (Fall 2021)"
       ]
     }
   ],
   "volunteer": [
+    {
+      "organization": "ICSpark",
+      "website": "https://icspark.github.io/index.html",
+      "position": "Mentor",
+      "startDate": "2019",
+      "endDate": "Present",
+      "summary": "Mentoring high school students and aiding them in completing projects related to web development.",
+      "highlights": [
+      ]
+    },
     {
       "organization": "Hawaii Undergraduate Initiative",
       "website": "http://manoa.hawaii.edu/omsshui/",
