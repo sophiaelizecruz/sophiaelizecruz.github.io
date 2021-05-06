@@ -56,4 +56,4 @@ and the code reviews that would help us become much savvier about our code and f
 management process a little better. It got to the point where I could talk about it (and it's what helped me to do well during my internship interviews). Looking 
 forward, I hope to have the chance to participate in more hands-on, real world experiences like this one before my undergraduate career ends. 
 
-<img class="ui medium floated rounded image" src="/images/ghgProject.png" length="800" width="1000">
+<img class="ui floated rounded image" src="/images/ghgProject.png" length="1000" width="1200">
