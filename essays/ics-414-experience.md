@@ -9,6 +9,7 @@ labels:
   - Javascript
   - Customer-Developer experience
 ---
+<img class="ui medium right floated rounded image" src="/images/hei.jpg" length="300" width="300">
 
 Well, I did not, until about two weeks ago.
 
