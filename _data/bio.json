@@ -96,6 +96,13 @@
         "ICS 451: Data Networks (Fall 2021)",
         "ICS 469: Cognitive Science (Fall 2021)"
       ]
+    },
+    {
+      "institution": "President William McKinley High School",
+      "studyType": "High School Diploma",
+      "startDate": "2014-08-05",
+      "endDate": "2018-05-27",
+      "gpa": "3.833",
     }
   ],
   "volunteer": [
@@ -135,7 +142,7 @@
     },
     {
       "title": "Dean's List",
-      "date": "2018-2019",
+      "date": "2018-2020",
       "awarder": "University of Hawaii at Mānoa",
       "summary": "Undergraduate students are awarded the Dean’s List distinction if they earn a semester grade point average of 3.5 or higher based on 12 credits or more taken for a grade (C/NC courses do not count), and do not receive grades of W, I, F, or NC for that semester."
     }
