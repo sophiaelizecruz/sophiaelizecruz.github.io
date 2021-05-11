@@ -15,6 +15,8 @@ labels:
 summary: A web application created for Hawaiian Electric Industries to help the people of Hawaii track their greenhouse gas emissions and encourages the use of alternative transportation.
 ---
 
+<img class="ui medium floated right rounded image" src="/images/ghg-tracker.png" length="1000" width="800">
+
 *Icon credit: Anna Campainha*
 
 GHG Tracker is an application created for Hawaiian Electric Industries, the customer that we were fortunate enough to work with for our software engineering II 
