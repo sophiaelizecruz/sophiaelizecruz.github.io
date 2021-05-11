@@ -1,10 +1,10 @@
 ---
 layout: project
 type: project
-image: images/eco.png
+image: images/ghg-tracker.png
 title: GHG Tracker
 permalink: projects/ecotronics
-date: 2020-08-09
+date: 2021-05-11
 labels:
   - Software Engineering
   - Javascript
