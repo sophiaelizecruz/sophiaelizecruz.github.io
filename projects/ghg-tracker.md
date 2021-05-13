@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/ghg-tracker.png
 title: GHG Tracker
-permalink: projects/ecotronics
+permalink: projects/ghg-tracker
 date: 2021-05-11
 labels:
   - Software Engineering
