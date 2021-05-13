@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Did you know, a mature tree can absorb 48 pounds of carbon dioxide per year!
+title: Did you know? A mature tree can absorb 48 pounds of carbon dioxide per year!
 date: 2021-05-11
 labels: 
   - Software Engineering
