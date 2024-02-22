@@ -4,7 +4,7 @@ type: project
 image: images/HaleMade.png
 title: HaleMade: Uplifting Hawaii's Small Businesses
 permalink: projects/halemade
-date: 2022-05
+date: 2022-05-07
 labels:
   - Java
   - Figma
