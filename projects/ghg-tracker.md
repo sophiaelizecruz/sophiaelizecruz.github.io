@@ -7,7 +7,7 @@ permalink: projects/ghg-tracker
 date: 2021-05-11
 labels:
   - Software Engineering
-  - Javascript
+  - Javascript/React
   - Agile Project Management
   - Customer-Developer experience
   - Hawaiian Electric Industries 
@@ -19,12 +19,11 @@ summary: A web application created for Hawaiian Electric Industries to help the 
 
 *Icon credit: Anna Campainha*
 
-GHG Tracker is an application created for Hawaiian Electric Industries, the customer that we were fortunate enough to work with for our software engineering II 
+GHG Tracker is an application created for Hawaiian Electric Industries, the customer that we were fortunate enough to work with for our Software Engineering II 
 class. From a spreadsheet that the customer used to log down an employee's day-to-day travels and its corresponding carbon emissions, we were to produce an 
 application that would tell the user about their carbon emissions for a specified time: the amount of carbon dioxide that they had emitted, saved, the amount of 
 miles that they travel, and as of right now, the number of telework days. Similarly, they wanted a feature where users could log down and compare their gas vehicles 
-to hybrid/electric ones to display what the user could be saving financially and environmentally. Throughout the semester, we would meet with the customer every few 
-weeks to present the progress on our projects.
+to hybrid/electric ones to display what the user could be saving financially and environmentally. Throughout the semester, we would meet with the customer periodically to present the progress on our projects.
 
 The application includes a variety of features and widgets for the convenience of the user, such as a user page that displays the user's mileage per mode of 
 transportation to a leaf widget that would display how close the user was to saving a certain amount of carbon dioxide, that of which the amount that they had saved 
