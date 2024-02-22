@@ -1,15 +1,15 @@
 {
   "basics": {
     "name": "Sophia Elize Cruz",
-    "label": "Student",
+    "label": "Software Engineer",
     "picture": "https://sophiaelizecruz.github.io/images/sophia.jpg",
-    "email": "secruz@hawaii.edu",
+    "email": "secruz0805@gmail.com",
     "phone": "808-636-0428",
     "website": "https://sophiaelizecruz.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2022.",
+    "summary": "Former Software Engineer @ Oracle Cloud Infrastructure and Aspiring Full-Stack Engineer.",
     "location": {
       "address": "",
-      "postalCode": "96814",
+      "postalCode": "",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -58,7 +58,8 @@
         "Javascript",
         "HTML/CSS",
         "React",
-        "Semantic UI"
+        "Semantic UI",
+        "Python"
       ]
     },
     {
@@ -68,7 +69,8 @@
         "MacOS",
         "Git/GitHub",
         "Eclipse IDE",
-        "IntelliJ IDEA"
+        "IntelliJ IDEA",
+        "Vim/Vi"
       ]
     }
   ],
@@ -78,8 +80,8 @@
       "area": "Computer Science (expected Spring, 2022)",
       "studyType": "B.S.",
       "startDate": "2018-08-24",
-      "endDate": "Present",
-      "gpa": "3.85",
+      "endDate": "2022-05-14",
+      "gpa": "3.84",
       "courses": [
         "ICS 111: Introduction to Computer Science I",
         "ICS 141: Discrete Mathematics for Computer Science I",
@@ -92,11 +94,11 @@
         "ICS 321: Database Systems I",
         "ICS 332: Operating Systems",
         "ICS 414: Software Engineering II",
-        "ICS 438: Big Data Analytics (Fall 2021)",
-        "ICS 451: Data Networks (Fall 2021)",
-        "ICS 469: Cognitive Science (Fall 2021)",
-        "MATH 241: Calculus I",
-        "MATH 242: Calculus II"
+        "ICS 425: Computer Security and Ethics",
+        "ICS 451: Data Networks",
+        "ICS 466: Design for Mobile Devices",
+        "ICS 469: Cognitive Science",
+        "ICS 491: Special Topics"     
       ]
     },
     {
