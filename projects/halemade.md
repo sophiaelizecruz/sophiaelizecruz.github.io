@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/HaleMade.png
+image: images/HaleMade1.png
 title: HaleMade
 permalink: projects/halemade
 date: 2022-05-07
@@ -22,5 +22,5 @@ This project proposal for my mobile design class is meant to build upon the exis
 may struggle to find, whether they are new or local to the islands.
 
 
-You can view our project [here](https://github.com/HaleMade-Hawaii), and can view our presentation of the application which details our research, statistics and user feedback [here](/HaleMade_Final.pdf).
+You can view our project [here](https://github.com/HaleMade-Hawaii), and can view our presentation of the application which details our research, statistics and user feedback [here](~/HaleMade_Final.pdf).
 
